@@ -247,6 +247,13 @@ end)
 end);
 
 
+Gamer:Button("Auto KG GUI", function ()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/unholytwig/ac1b8bc4d065d761529556331efa7904/raw/f0165013a1290edca729837a77d70fbb42cfb833/sl2kekkeigenkai.lua"))()
+
+
+
+end);
+
 
 
 Gamer:Label("Thanks For Using Zeus")

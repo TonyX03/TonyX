@@ -247,7 +247,7 @@ end)
 end);
 
 
-Gamer:Button("Auto Farm 3 GUI (War Mode, JinFarm...)", function ()
+Gamer:Button("Auto Farm 3 GUI (War Mode, JinFarm)", function ()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/reavscripts/sl2_autofarm/main/main.lua", true))()
 
 

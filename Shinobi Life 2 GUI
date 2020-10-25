@@ -254,7 +254,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/reavscripts/sl2_autof
 
 end);
 
-Zeus:Button("Auto Farm 4 GUI (If AutoFarm Bugs, Disable and Enable again)", function ()
+Zeus:Button("Auto Farm 4 GUI (For Private Server)", function ()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Godne8825/Avakir/Scripts/supremeguisl2", true))()
 end);
 

@@ -1,16 +1,16 @@
-local library = loadstring(game:HttpGet("https://pastebin.com/raw/SKZjdjdj"))();
+local library = loadstring(game:HttpGet("https://pastebin.com/raw/ayVN9Tqj"))();
 
 
-local Gamer = library:CreateSection("GUI's");
-Gamer:Label("Shinobi Life 2")
-Gamer:Button("Auto Farm 1 GUI", function ()
+local Zeus = library:CreateSection("GUI's");
+Zeus:Label("Shinobi Life 2")
+Zeus:Button("Auto Farm 1 GUI", function ()
 loadstring(game:HttpGet("http://assasine.com/Scripts/Shinobi_Life_2_Autofarm.lua", true))()
 
 
 
 end);
 
-Gamer:Button("Auto Farm 2 GUI" , function ()
+Zeus:Button("Auto Farm 2 GUI" , function ()
 
 -- Gui to Lua
 -- Version: 3.2
@@ -247,22 +247,23 @@ end)
 end);
 
 
-Gamer:Button("Auto Farm 3 GUI (War Mode, JinFarm)", function ()
+Zeus:Button("Auto Farm 3 GUI (War Mode, JinFarm)", function ()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/reavscripts/sl2_autofarm/main/main.lua", true))()
 
 
 
 end);
 
-Gamer:Button("Auto KG GUI", function ()
+Zeus:Button("Auto Farm 4 GUI (If AutoFarm Bugs, Disable and Enable again)", function ()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Godne8825/Avakir/Scripts/supremeguisl2", true))()
+end);
+
+Zeus:Button("Auto KG GUI", function ()
 loadstring(game:HttpGet("https://gist.githubusercontent.com/unholytwig/ac1b8bc4d065d761529556331efa7904/raw/f0165013a1290edca729837a77d70fbb42cfb833/sl2kekkeigenkai.lua"))()
-
-
-
 end);
 
 
 
-Gamer:Label("Thanks For Using Zeus")
+Zeus:Label("Thanks For Using Zeus")
 
 library:Ready();

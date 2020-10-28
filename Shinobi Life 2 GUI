@@ -258,7 +258,7 @@ Zeus:Button("Auto Farm 4 GUI (For Private Server)", function ()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Godne8825/Avakir/Scripts/supremeguisl2", true))()
 end);
 
-Zeus:Button("Infinite Spins / Reset Spins", function ()
+Zeus:Button("Infinite Spins / Reset Spins (You will lose some!)", function ()
 loadstring(game:HttpGet("https://pastebin.com/raw/Wsc9rAp5", true))()
 end);
 

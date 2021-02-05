@@ -2034,7 +2034,7 @@ do -- Example UI
 	do -- Elements
 		Tab:AddLabel("Thanks For Using Zeus")
 
-		Tab:AddButton("MheeHub GUI", function()
+		Tab:AddButton("Fixed - MheeHub GUI", function()
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB",true))()
 		end)
 		Tab:AddButton("Old GUI", function()

@@ -2025,7 +2025,7 @@ end
 do -- Example UI
 	local Window = library:AddWindow("Zeus", {
 		main_color = Color3.fromRGB(139, 0, 0),
-		min_size = Vector2.new(300, 150),
+		min_size = Vector2.new(300, 160),
 		toggle_key = Enum.KeyCode.RightShift,
 		can_resize = true,
 	})

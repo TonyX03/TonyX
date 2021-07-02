@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+        {
+            "Name": "NEW - Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/bdc0a786d0e6b8ba5d68091ae07c3958/raw/64eeec75d06d16f58eb97a5f689f4e3e29aeacab/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/VMdXtg8.png",
+            "ID" : "6"
+        },
 		{
             "Name": "NEW - Anime Dimensions",
             "Url": "https://gist.githubusercontent.com/TonyX03/dcb65cdf69cbc382593bb57e1125c8cc/raw/9d50223ca7a720e1db77fd2d22a31b911f997c64/gistfile1.txt",
@@ -328,13 +335,6 @@
             "Description": "Exclusive GUI - Aimbot, Kill All, ESP And More!",
             "ThumbNail": "https://i.imgur.com/5uVSBxn.png",
             "ID" : "64"
-        },
-        {
-            "Name": "Shindo Life",
-            "Url": "https://pastebin.com/raw/EQtgUMHm",
-            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/VMdXtg8.png",
-            "ID" : "6"
         },
 		{
             "Name": "Glue Piece",

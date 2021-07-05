@@ -14,22 +14,29 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	{
+            "Name": "NEW - Slayers Unleashed",
+            "Url": "https://gist.githubusercontent.com/TonyX03/d6899eaca03ee3afd6510a9c219a4f1a/raw/70c437efcb0789b2027aa8fd584c677adfc5f8ac/gistfile1.txt",
+            "Description": "Exclusive GUI - Max Stas, & More",
+            "ThumbNail": "https://i.imgur.com/Aaq07dC.png",
+            "ID" : "148"
+        },
         {
-            "Name": "NEW - Shindo Life",
+            "Name": "Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/bdc0a786d0e6b8ba5d68091ae07c3958/raw/64eeec75d06d16f58eb97a5f689f4e3e29aeacab/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
             "ThumbNail": "https://i.imgur.com/VMdXtg8.png",
             "ID" : "6"
         },
 		{
-            "Name": "NEW - Anime Dimensions",
+            "Name": "Anime Dimensions",
             "Url": "https://gist.githubusercontent.com/TonyX03/dcb65cdf69cbc382593bb57e1125c8cc/raw/9d50223ca7a720e1db77fd2d22a31b911f997c64/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/aPs12Wb.png",
             "ID" : "148"
         },
 		{
-            "Name": "NEW - Wacky Wizards",
+            "Name": "Wacky Wizards",
             "Url": "https://gist.githubusercontent.com/TonyX03/04fb818519ca225acae6e53206512a31/raw/553bf34c0679f2cb103d2d7e4e49aa0ca8e90972/gistfile1.txt",
             "Description": "Exclusive GUI - Items & More!",
             "ThumbNail": "https://i.imgur.com/yoRjIk0.png",

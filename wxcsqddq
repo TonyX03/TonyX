@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+        {
+            "Name": "NEW - Counter Blox",
+            "Url": "https://gist.githubusercontent.com/TonyX03/f55aec10b2d6cecdd3868dc6bcafbabf/raw/3d718de598467933f51c0032c168b44b6128841a/gistfile1.txt",
+            "Description":  "Exclusive GUI - Silent Aim, ESP, Tracers and More!",
+            "ThumbNail": "https://i.imgur.com/OFADbEn.png",
+            "ID" : "19"
+        },
 	{
             "Name": "NEW - Slayers Unleashed",
             "Url": "https://gist.githubusercontent.com/TonyX03/d6899eaca03ee3afd6510a9c219a4f1a/raw/70c437efcb0789b2027aa8fd584c677adfc5f8ac/gistfile1.txt",
@@ -524,13 +531,6 @@
             "Description": "Exclusive GUI - Silent Aim, Fly, ESP And Many More!",
             "ThumbNail": "https://i.imgur.com/5AIFOYa.png",
             "ID" : "18"
-        },
-        {
-            "Name": "Counter Blox",
-            "Url": "https://pastebin.com/raw/NYqu2cfa",
-            "Description":  "Exclusive GUI - Silent Aim, ESP, Tracers and More!",
-            "ThumbNail": "https://i.imgur.com/NHLMFpG.png",
-            "ID" : "19"
         },
         {
             "Name": "Fall Block",

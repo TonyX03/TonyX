@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+			{
+            "Name": "NEW - Funky Friday",
+            "Url": "https://gist.githubusercontent.com/TonyX03/d7269191de9ed018320728dd1cbbe7ba/raw/49cb05a4a34ecdbef2f21a49c4f722b0d4c2c7b5/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Play, Points And More!",
+            "ThumbNail": "https://i.imgur.com/8ZEhM90.png",
+            "ID" : "104"
+        },
         {
             "Name": "NEW - Counter Blox",
             "Url": "https://gist.githubusercontent.com/TonyX03/f55aec10b2d6cecdd3868dc6bcafbabf/raw/3d718de598467933f51c0032c168b44b6128841a/gistfile1.txt",
@@ -167,13 +174,6 @@
             "Description": "Exclusive GUI - Auto Farm, Item Search, Mods and More!",
             "ThumbNail": "https://i.imgur.com/nIan1PP.png",
             "ID" : "27"
-        },
-		{
-            "Name": "Funky Friday",
-            "Url": "https://gist.githubusercontent.com/TonyX03/e559be3cb1894461e3d5c932bb2fb05a/raw/9cb0b3023664f3a1fe9e051064d3a2de1a251d7d/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Play, Points And More!",
-            "ThumbNail": "https://i.imgur.com/CyMZzOT.png",
-            "ID" : "104"
         },
 		{
             "Name": "Tapping Gods",

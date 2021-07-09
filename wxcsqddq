@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	        {
+            "Name": "NEW - Murder Mystery 2",
+            "Url": "https://gist.githubusercontent.com/TonyX03/c32e62ffaa4cc79f1566b8bcc94c167d/raw/2d2470b4925f70ff9954236ac283d399e9d4b6a6/gistfile1.txt",
+            "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
+            "ThumbNail": "https://i.imgur.com/IjFiwiI.png",
+            "ID": "40"
+        },
 	{
             "Name": "NEW - Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/147698b86a4d9981f0f5e0b6f39e4166/raw/4f3f7c4f93f8182031bb081d782304b52fbd9595/gistfile1.txt",
@@ -645,13 +652,6 @@
             "Description": "GUI - ESP, Noclip, Fly And Many More!",
             "ThumbNail": "https://i.imgur.com/Zab7HGy.png",
             "ID" : "39"
-        },
-        {
-            "Name": "Murder Mystery 2",
-            "Url": "https://gist.githubusercontent.com/TonyX03/59a69a4e50af45d025a6d76545c43ee7/raw/d4c2fe6c371005a5cec444c05e1b8ed1598e5f3a/gistfile1.txt",
-            "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
-            "ThumbNail": "https://i.imgur.com/8j1Q1xz.png",
-            "ID": "40"
         },
         {
             "Name": "gang up on people",

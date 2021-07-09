@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+			{
+            "Name": "NEW - Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/ab23c5ddee7038435149dd9918cb74ae/raw/b02d94c294485cf7339d1af86d39539760e1c06a/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/Kd4oK4T.png",
+            "ID" : "143"
+        },
 	        {
             "Name": "NEW - Vehicle Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/68e0c02588ea6968bfdce78cef03e356/raw/5f1d962b3c64f5d70ed18333fd7b09e4ba0aa71d/gistfile1.txt",
@@ -118,13 +125,6 @@
             "Description": "GUI - Gems Farm & More!",
             "ThumbNail": "https://i.imgur.com/eVdbVpk.png",
             "ID" : "144"
-        },
-		{
-            "Name": "Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/e5b01e11408cf37db70ae58212ece54b/raw/395af22038e5fc5216a4a0e8462bcc78a83d711d/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/dlPbKn1.png",
-            "ID" : "143"
         },
 		{
             "Name": "Epic Minigames",

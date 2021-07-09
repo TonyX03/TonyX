@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	        {
+            "Name": "NEW - Vehicle Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/68e0c02588ea6968bfdce78cef03e356/raw/5f1d962b3c64f5d70ed18333fd7b09e4ba0aa71d/gistfile1.txt",
+            "Description": "Exclusive GUI - Car Settings, Character Cheats, Unblock Perks And Many More!",
+            "ThumbNail": "https://i.imgur.com/JqjD3Bx.png",
+            "ID" : "99"
+        },
 			{
             "Name": "NEW - Project XL",
             "Url": "https://gist.githubusercontent.com/TonyX03/05cde184b810f6ed15068c544bbc76f3/raw/8212638b9f75730fc2819a67cd68c73d8d93ab34/gistfile1.txt",
@@ -989,13 +996,7 @@
             "ThumbNail": "https://i.imgur.com/4xoBADx.png",
             "ID" : "98"
         },
-        {
-            "Name": "Vehicle Simulator",
-            "Url": "https://pastebin.com/raw/yNSceVJw",
-            "Description": "Best GUI - Car Settings, Character Cheats, Unblock Perks And Many More!",
-            "ThumbNail": "https://i.imgur.com/ODTqton.png",
-            "ID" : "99"
-        },
+
         {
             "Name": "Mad City",
             "Url": "https://gist.githubusercontent.com/TonyX03/fcaf14a35ecc443150f1ea2ecde0e74b/raw/9301f6ee03ae203ac623c99d7e8d7ca987175dc6/gistfile1.txt",

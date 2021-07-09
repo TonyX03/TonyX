@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+			{
+            "Name": "NEW - Project XL",
+            "Url": "https://gist.githubusercontent.com/TonyX03/05cde184b810f6ed15068c544bbc76f3/raw/8212638b9f75730fc2819a67cd68c73d8d93ab34/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, Kill Aura And More!",
+            "ThumbNail": "https://i.imgur.com/4c31mUh.png",
+            "ID" : "5"
+        },
 	        {
             "Name": "NEW - Murder Mystery 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/c32e62ffaa4cc79f1566b8bcc94c167d/raw/2d2470b4925f70ff9954236ac283d399e9d4b6a6/gistfile1.txt",
@@ -104,13 +111,6 @@
             "Description": "GUI - Gems Farm & More!",
             "ThumbNail": "https://i.imgur.com/eVdbVpk.png",
             "ID" : "144"
-        },
-		{
-            "Name": "Project XL",
-            "Url": "https://gist.githubusercontent.com/TonyX03/361d1c464a79afc4175053a6ecac6f17/raw/a91db402fbf42a31889532f6f1c6d6b61bb57205/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, Kill Aura And More!",
-            "ThumbNail": "https://i.imgur.com/54mxOF8.png",
-            "ID" : "5"
         },
 		{
             "Name": "Anime Fighters Simulator",

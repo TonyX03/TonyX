@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	{
+            "Name": "NEW - Your Bizarre Adventure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/147698b86a4d9981f0f5e0b6f39e4166/raw/4f3f7c4f93f8182031bb081d782304b52fbd9595/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, Item Search, Mods and More!",
+            "ThumbNail": "https://i.imgur.com/L8cL3Jd.png",
+            "ID" : "27"
+        },
 			{
             "Name": "NEW - BedWars",
             "Url": "https://gist.githubusercontent.com/TonyX03/cc7086c0fcc36032fcc63cd184e7137a/raw/c82cb7297566f69f6cddf5625f6204559028559e/gistfile1.txt",
@@ -175,13 +182,7 @@
             "ThumbNail": "https://i.imgur.com/ZqZ3V2C.png",
             "ID" : "106"
         },
-        {
-            "Name": "Your Bizarre Adventure",
-            "Url": "https://gist.githubusercontent.com/TonyX03/4f5967ac81688865edebc0ba89f3570b/raw/11d4ba314bc223a4292a6d9b253e418cb092d66f/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, Item Search, Mods and More!",
-            "ThumbNail": "https://i.imgur.com/nIan1PP.png",
-            "ID" : "27"
-        },
+       
 		{
             "Name": "Tapping Gods",
             "Url": "https://pastebin.com/raw/68bVUWhg",

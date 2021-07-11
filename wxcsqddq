@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	        {
+            "Name": "NEW - Dragon Ball Z Final Stand",
+            "Url": "https://pastebin.com/raw/2b7VNMvg",
+            "Description": "GUI - Auto Farm, Speed, Fly And Many More!",
+            "ThumbNail": "https://i.imgur.com/IpCKu77.png",
+            "ID" : "38"
+        },
+	        {
             "Name": "NEW - My Hero Mania",
             "Url": "https://gist.githubusercontent.com/TonyX03/cf3be8b39aa6debb4c22d4987aa2d931/raw/1e3779d9c98b29cb5e9bf013ec055aa4de936818/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, Skill!",
@@ -660,13 +667,7 @@
             "ThumbNail": "https://i.imgur.com/Y10bDwg.png",
             "ID" : "37"
         },
-        {
-            "Name": "Dragon Ball Z Final Stand",
-            "Url": "https://pastebin.com/raw/V0m75yxk",
-            "Description": "GUI - Auto Farm, Speed, Fly And Many More!",
-            "ThumbNail": "https://i.imgur.com/ypqaHez.png",
-            "ID" : "38"
-        },
+
         {
             "Name": "Project Lazarus",
             "Url": "https://pastebin.com/raw/ZDpEpejE",

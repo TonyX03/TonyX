@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Ninja Legends",
+            "Url": "https://gist.githubusercontent.com/TonyX03/9c572f60cb5abe99025c5ca81e5fb0fd/raw/4f0562877ebdb22ab27e8cc041f038cc76aaab0a/gistfile1.txt",
+            "Description":  "Exclusive GUI - Farming, Pet Stuff, Auto Buy, Teleports And Many More!",
+            "ThumbNail": "https://i.imgur.com/EuXZq2W.png",
+            "ID" : "98"
+        },
+	{
             "Name": "NEW - The RAKE",
             "Url": "https://gist.githubusercontent.com/TonyX03/17fc4bdbfb48a326d4a06de4914c4d31/raw/a949b5d5025852bf1942aa6d06f98b3b05823806/gistfile1.txt",
             "Description": "Infinite Stamina, ESP Everything, No Fog And More!",
@@ -998,14 +1005,6 @@
             "ThumbNail": "https://i.imgur.com/N3CAL1O.jpg",
             "ID" : "97"
         },
-        {
-            "Name": "Ninja Legends",
-            "Url": "https://pastebin.com/raw/H24Ygh2P",
-            "Description":  "GUI - Farming, Pet Stuff, Auto Buy, Teleports And Many More!",
-            "ThumbNail": "https://i.imgur.com/4xoBADx.png",
-            "ID" : "98"
-        },
-
         {
             "Name": "Mad City",
             "Url": "https://gist.githubusercontent.com/TonyX03/fcaf14a35ecc443150f1ea2ecde0e74b/raw/9301f6ee03ae203ac623c99d7e8d7ca987175dc6/gistfile1.txt",

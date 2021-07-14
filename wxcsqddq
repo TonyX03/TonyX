@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Breaking Point",
+            "Url": "https://gist.githubusercontent.com/TonyX03/a3bf06b798d63ce67a0355a5f5e1006e/raw/761a03be31b083143437c81763050365ac6fb8ee/gistfile1.txt",
+            "Description":  "Exclusive GUI - Aimbot, Always Hit!...",
+            "ThumbNail": "https://i.imgur.com/jUFZMoN.png",
+            "ID" : "72"
+        },
+	{
             "Name": "NEW - Ninja Legends",
             "Url": "https://gist.githubusercontent.com/TonyX03/9c572f60cb5abe99025c5ca81e5fb0fd/raw/4f0562877ebdb22ab27e8cc041f038cc76aaab0a/gistfile1.txt",
             "Description":  "Exclusive GUI - Farming, Pet Stuff, Auto Buy, Teleports And Many More!",
@@ -842,13 +849,6 @@
             "Description": "GUI - Auto Farm, Unlock Islands, And More!",
             "ThumbNail": "https://i.imgur.com/55loBHC.png",
             "ID" : "71"
-        },
-        {
-            "Name": "Breaking Point",
-            "Url": "https://pastebin.com/raw/G1t3KJ1j",
-            "Description":  "GUI - Aimbot, Always Hit!",
-            "ThumbNail": "https://i.imgur.com/jUFZMoN.png",
-            "ID" : "72"
         },
         {
             "Name": "Hide and Seek Extreme",

@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - The RAKE",
+            "Url": "https://gist.githubusercontent.com/TonyX03/17fc4bdbfb48a326d4a06de4914c4d31/raw/a949b5d5025852bf1942aa6d06f98b3b05823806/gistfile1.txt",
+            "Description": "Infinite Stamina, ESP Everything, No Fog And More!",
+            "ThumbNail": "https://i.imgur.com/sGWKoBh.png",
+            "ID" : "83"
+        },
+	{
             "Name": "NEW - Demonfall",
             "Url": "https://gist.githubusercontent.com/TonyX03/418c1de8552c9f4bba3bfafa72471cef/raw/405c99e27929bc4309c43ad17ba5fd9b6c6ca158/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
@@ -905,13 +912,6 @@
             "Description": "GUI - Kill All, Rapid Fire, Speed, And More!",
             "ThumbNail": "https://i.imgur.com/k6NydW1.png",
             "ID" : "82"
-        },
-        {
-            "Name": "The RAKE",
-            "Url": "https://pastebin.com/raw/yJHVTmCD",
-            "Description": "Infinite Stamina, ESP Everything, No Fog And More!",
-            "ThumbNail": "https://i.imgur.com/srO9g4S.png",
-            "ID" : "83"
         },
         {
             "Name": "Boxing Simulator",

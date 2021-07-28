@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - A Hero's Destiny",
+            "Url": "https://gist.githubusercontent.com/TonyX03/415962611152ad4a84b688853ea77602/raw/e4dfd14257b6557c9034d075704c2764c5011873/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/y4DHIMD.png",
+            "ID" : "130"
+        },
+	{
             "Name": "NEW - Retail Tycoon 2",
             "Url": "https://pastebin.com/raw/PJ79AYsr",
             "Description": "GUI - Auto Farm & More!",
@@ -273,13 +280,6 @@
             "Description": "Exclusive GUI - Auto Eat & More!",
             "ThumbNail": "https://i.imgur.com/9xuXKBe.png",
             "ID" : "131"
-        },
-		{
-            "Name": "A Hero's Destiny",
-            "Url": "https://gist.githubusercontent.com/TonyX03/9c490ee94add1eb3a43db83901378309/raw/558ae4feaf84055022bb99b41983f4072a258bb9/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/TGruJFU.png",
-            "ID" : "130"
         },
         {
             "Name": "item asylum",

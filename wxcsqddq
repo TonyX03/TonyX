@@ -15,32 +15,32 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW - Breaking Point",
+            "Name": "NEW - Demonfall",
+            "Url": "https://gist.githubusercontent.com/TonyX03/3fb50abd9b571cbca966b37a480cf11e/raw/904714ea80d494572d84a195b472d2748a4d9ee2/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/BTblqUs.png",
+            "ID" : "150"
+        },
+	{
+            "Name": "Breaking Point",
             "Url": "https://gist.githubusercontent.com/TonyX03/a3bf06b798d63ce67a0355a5f5e1006e/raw/761a03be31b083143437c81763050365ac6fb8ee/gistfile1.txt",
             "Description":  "Exclusive GUI - Aimbot, Always Hit!...",
             "ThumbNail": "https://i.imgur.com/jUFZMoN.png",
             "ID" : "72"
         },
 	{
-            "Name": "NEW - Ninja Legends",
+            "Name": "Ninja Legends",
             "Url": "https://gist.githubusercontent.com/TonyX03/9c572f60cb5abe99025c5ca81e5fb0fd/raw/4f0562877ebdb22ab27e8cc041f038cc76aaab0a/gistfile1.txt",
             "Description":  "Exclusive GUI - Farming, Pet Stuff, Auto Buy, Teleports And Many More!",
             "ThumbNail": "https://i.imgur.com/EuXZq2W.png",
             "ID" : "98"
         },
 	{
-            "Name": "NEW - The RAKE",
+            "Name": "The RAKE",
             "Url": "https://gist.githubusercontent.com/TonyX03/17fc4bdbfb48a326d4a06de4914c4d31/raw/a949b5d5025852bf1942aa6d06f98b3b05823806/gistfile1.txt",
             "Description": "Infinite Stamina, ESP Everything, No Fog And More!",
             "ThumbNail": "https://i.imgur.com/sGWKoBh.png",
             "ID" : "83"
-        },
-	{
-            "Name": "NEW - Demonfall",
-            "Url": "https://gist.githubusercontent.com/TonyX03/418c1de8552c9f4bba3bfafa72471cef/raw/405c99e27929bc4309c43ad17ba5fd9b6c6ca158/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/BTblqUs.png",
-            "ID" : "150"
         },
 	{
             "Name": "Dragon Ball Z Final Stand",

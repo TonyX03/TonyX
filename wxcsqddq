@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Stands Awakening",
+            "Url": "https://gist.githubusercontent.com/TonyX03/be5b143d44c3b007518feb63bf1f1848/raw/c57675410fd4f5fc44da12f1d00e6d3ba2a7e780/gistfile1.txt",
+            "Description": "GUI - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/MWd8Jgr.png",
+            "ID" : "135"
+        },
+	{
             "Name": "NEW - Prison Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/cde9cf1133cd8e4f56cb54668bc8e010/raw/5759049ddaf86b4a02577b73b048443ab1bba61e/gistfile1.txt",
             "Description": "Exclusive GUI - Troll, Get Guns, Aimbot, Teleports and More!",
@@ -245,21 +252,14 @@
             "ThumbNail": "https://i.imgur.com/TE0rrFm.png",
             "ID" : "134"
         },
-		{
-            "Name": "Stands Awakening",
-            "Url": "https://gist.githubusercontent.com/TonyX03/298326de7f35325ba695fff45558552e/raw/2e239be4b95f468c904f4536071a09490f19b359/gistfile1.txt",
-            "Description": "GUI - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/DWSqp39.png",
-            "ID" : "135"
-        },
-		{
+	{
             "Name": "Super Evolution",
             "Url": "https://gist.githubusercontent.com/TonyX03/b8ef9f812736912bd522671aff934fab/raw/23a8e1d1cfbb0e72a6b71253e1a15f9fae2337dc/gistfile1.txt",
             "Description": "Exclusive GUI - Kill Farm!",
             "ThumbNail": "https://i.imgur.com/D0GIedU.png",
             "ID" : "105"
         },
-		{
+	{
             "Name": "Demon Slayer RPG",
             "Url": "https://gist.githubusercontent.com/TonyX03/7e80c3354926e9dbf925810ad94e920d/raw/798beeb3479ab47c71a4b779904ff17eb437f646/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm & More!",

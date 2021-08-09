@@ -15,28 +15,35 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW - A Hero's Destiny",
+            "Name": "NEW - Prison Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/cde9cf1133cd8e4f56cb54668bc8e010/raw/5759049ddaf86b4a02577b73b048443ab1bba61e/gistfile1.txt",
+            "Description": "Exclusive GUI - Troll, Get Guns, Aimbot, Teleports and More!",
+            "ThumbNail": "https://i.imgur.com/XQXmreq.png",
+            "ID" : "16"
+        },
+	{
+            "Name": "A Hero's Destiny",
             "Url": "https://gist.githubusercontent.com/TonyX03/415962611152ad4a84b688853ea77602/raw/e4dfd14257b6557c9034d075704c2764c5011873/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/y4DHIMD.png",
             "ID" : "130"
         },
 	{
-            "Name": "NEW - Retail Tycoon 2",
+            "Name": "Retail Tycoon 2",
             "Url": "https://pastebin.com/raw/PJ79AYsr",
             "Description": "GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/LcQnvTX.png",
             "ID" : "152"
         },
 	{
-            "Name": "NEW - Pressure Wash Simulator",
+            "Name": "Pressure Wash Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/e53fd55c3bb2ed21c7ff83a6dbfb79fb/raw/8e0141c49fe1c93aa61587a532761a05a23bf334/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/BHKEqnd.png",
             "ID" : "151"
         },
 	{
-            "Name": "NEW - Demonfall",
+            "Name": "Demonfall",
             "Url": "https://gist.githubusercontent.com/TonyX03/3fb50abd9b571cbca966b37a480cf11e/raw/904714ea80d494572d84a195b472d2748a4d9ee2/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/0GzhfgX.png",
@@ -589,14 +596,7 @@
             "ThumbNail": "https://i.imgur.com/vpD5jRu.png",
             "ID" : "15"
         },
-        {
-            "Name": "Prison Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/58ab072c1a4910b5e730317fb66d82b5/raw/7740a13d1fd5bc2a43215b536a504c073298178b/gistfile1.txt",
-            "Description": "Exclusive GUI - Troll, Get Guns, Aimbot, Teleports and More!",
-            "ThumbNail": "https://i.imgur.com/XQXmreq.png",
-            "ID" : "16"
-        },
-		{
+	{
             "Name": "My Dragon Tycoon",
             "Url": "https://pastebin.com/raw/3UUvJ9Mc",
             "Description": "GUI - Auto Farm, Kill Aura And More!",

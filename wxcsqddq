@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Saber Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/fc87e785e8da749edcecac4422024034/raw/5e19def717f6e6d70e8ba681bb1d83bcf4590809/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, Unlock Islands, And More!",
+            "ThumbNail": "https://i.imgur.com/BWZ1H9G.png",
+            "ID" : "71"
+        },
+	{
             "Name": "NEW - Slayers Unleashed",
             "Url": "https://gist.githubusercontent.com/TonyX03/3c670d8d1527c7a4a19f399107041298/raw/9f9520c92f50ec8d2209236a0929ef7cf0fb38d2/gistfile1.txt",
             "Description": "GUI - Max Stas, & More",
@@ -856,13 +863,6 @@
             "Description": "GUI - Auto Farm, Inf Stamina, And More!",
             "ThumbNail": "https://i.imgur.com/SmEIBgM.png",
             "ID" : "70"
-        },
-        {
-            "Name": "Saber Simulator",
-            "Url": "https://pastebin.com/raw/xzCFTkTc",
-            "Description": "GUI - Auto Farm, Unlock Islands, And More!",
-            "ThumbNail": "https://i.imgur.com/55loBHC.png",
-            "ID" : "71"
         },
         {
             "Name": "Hide and Seek Extreme",

@@ -15,14 +15,21 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW - Stands Awakening",
+            "Name": "NEW - Slayers Unleashed",
+            "Url": "https://gist.githubusercontent.com/TonyX03/3c670d8d1527c7a4a19f399107041298/raw/9f9520c92f50ec8d2209236a0929ef7cf0fb38d2/gistfile1.txt",
+            "Description": "GUI - Max Stas, & More",
+            "ThumbNail": "https://i.imgur.com/XpIvaQD.png",
+            "ID" : "149"
+        },
+	{
+            "Name": "Stands Awakening",
             "Url": "https://gist.githubusercontent.com/TonyX03/be5b143d44c3b007518feb63bf1f1848/raw/c57675410fd4f5fc44da12f1d00e6d3ba2a7e780/gistfile1.txt",
             "Description": "GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/MWd8Jgr.png",
             "ID" : "135"
         },
 	{
-            "Name": "NEW - Prison Life",
+            "Name": "Prison Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/e355714d3f0aecfce8461c911311bd1c/raw/a878544975521bce18a36a69d15a24ee72957f7a/gistfile1.txt",
             "Description": "Exclusive GUI - Troll, Get Guns, Aimbot, Teleports and More!",
             "ThumbNail": "https://i.imgur.com/XQXmreq.png",
@@ -160,13 +167,6 @@
             "Description":  "Exclusive GUI - Silent Aim, ESP, Tracers and More!",
             "ThumbNail": "https://i.imgur.com/OFADbEn.png",
             "ID" : "19"
-        },
-	{
-            "Name": "Slayers Unleashed",
-            "Url": "https://gist.githubusercontent.com/TonyX03/d6899eaca03ee3afd6510a9c219a4f1a/raw/70c437efcb0789b2027aa8fd584c677adfc5f8ac/gistfile1.txt",
-            "Description": "Exclusive GUI - Max Stas, & More",
-            "ThumbNail": "https://i.imgur.com/Aaq07dC.png",
-            "ID" : "149"
         },
         {
             "Name": "Shindo Life",

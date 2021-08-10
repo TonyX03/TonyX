@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Pet Simulator X",
+            "Url": "https://gist.githubusercontent.com/TonyX03/1c249f4aa833431691f255ff39d46a69/raw/256b4e62c22831f791c3091c9ec8a723645dbfc3/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/WnqUm0h.png",
+            "ID" : "153"
+        },
+	{
             "Name": "NEW - Project XL",
             "Url": "https://gist.githubusercontent.com/TonyX03/8e08d708231a596b8c6e732d968fa500/raw/9c1db10e79cea9f26de24c5430377de8cb5182bb/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, Kill Aura And More!",

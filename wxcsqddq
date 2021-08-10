@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Project XL",
+            "Url": "https://gist.githubusercontent.com/TonyX03/8e08d708231a596b8c6e732d968fa500/raw/9c1db10e79cea9f26de24c5430377de8cb5182bb/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, Kill Aura And More!",
+            "ThumbNail": "https://i.imgur.com/X329ZvY.png",
+            "ID" : "5"
+        },
+	{
             "Name": "NEW - Bee Swarm Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/66a9fd9697dd14950d8ca93f85d1a9de/raw/04e9a12392afaa811f4192b0344770cf4fc77cfd/gistfile1.txt",
             "Description": "The Best GUI, Auto Farm Everything...",
@@ -132,13 +139,6 @@
             "Description": "Exclusive GUI - Car Settings, Character Cheats, Unblock Perks And Many More!",
             "ThumbNail": "https://i.imgur.com/JqjD3Bx.png",
             "ID" : "99"
-        },
-	{
-            "Name": "Project XL",
-            "Url": "https://gist.githubusercontent.com/TonyX03/05cde184b810f6ed15068c544bbc76f3/raw/8212638b9f75730fc2819a67cd68c73d8d93ab34/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, Kill Aura And More!",
-            "ThumbNail": "https://i.imgur.com/4c31mUh.png",
-            "ID" : "5"
         },
 	{
             "Name": "Murder Mystery 2",

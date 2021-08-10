@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Bee Swarm Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/66a9fd9697dd14950d8ca93f85d1a9de/raw/04e9a12392afaa811f4192b0344770cf4fc77cfd/gistfile1.txt",
+            "Description": "The Best GUI, Auto Farm Everything...",
+            "ThumbNail": "https://i.imgur.com/Cw9A19j.png",
+            "ID" : "85"
+        },
+	{
             "Name": "NEW - Saber Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/fc87e785e8da749edcecac4422024034/raw/5e19def717f6e6d70e8ba681bb1d83bcf4590809/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, Unlock Islands, And More!",
@@ -940,13 +947,6 @@
             "Description": "GUI - Auto Farm, Soul Farm And More!",
             "ThumbNail": "https://i.imgur.com/jAhjKOC.png",
             "ID" : "84"
-        },
-        {
-            "Name": "Bee Swarm Simulator",
-            "Url": "https://pastebin.com/raw/YBtexjgM",
-            "Description": "The Best GUI, Auto Farm Everything...",
-            "ThumbNail": "https://i.imgur.com/Cw9A19j.png",
-            "ID" : "85"
         },
         {
             "Name": "Impostor",

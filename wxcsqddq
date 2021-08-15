@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Anime Warriors",
+            "Url": "https://raw.githubusercontent.com/AltsegoD/scripts/egoD/AnimeWarriors.lua",
+            "Description": "GUI - Insta Kill, And More!",
+            "ThumbNail": "https://i.imgur.com/IPadepP.png",
+            "ID" : "154"
+        },
+	{
             "Name": "NEW - Pet Simulator X",
             "Url": "https://gist.githubusercontent.com/TonyX03/1c249f4aa833431691f255ff39d46a69/raw/256b4e62c22831f791c3091c9ec8a723645dbfc3/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, And More!",

@@ -14,22 +14,29 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	        {
+            "Name": "NEW - Shindo",
+            "Url": "https://gist.githubusercontent.com/TonyX03/0f0ac9c1fbdfb24e2f14f9c5482096e7/raw/967cdc255f0df84631fada62c96365f62108c7e8/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/16Kv6II.png",
+            "ID" : "6"
+        },
 	{
-            "Name": "NEW - Islands",
+            "Name": "Islands",
             "Url": "https://gist.githubusercontent.com/TonyX03/8d62948e88a199440ea334fa8f7f8214/raw/4c4cb9fb9da93b08ac0857716b298ca82fbeb8b3/gistfile1.txt",
             "Description":  "GUI - Auto Farm, Player Mods, Block Mods, Teleports and More!",
             "ThumbNail": "https://i.imgur.com/oyny0bz.png",
             "ID" : "22"
         },
 	{
-            "Name": "NEW - Da Hood",
+            "Name": "Da Hood",
             "Url": "https://gist.githubusercontent.com/TonyX03/2fa8a9b56059b54784642b4d7ce1a5da/raw/742296cda0b65c7a1cb62f79f5a1fd8d66ab8117/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, Money And More!",
             "ThumbNail": "https://i.imgur.com/x2UeSXb.jpg",
             "ID" : "31"
         },
 	{
-            "Name": "NEW - Anime Warriors",
+            "Name": "Anime Warriors",
             "Url": "https://gist.githubusercontent.com/TonyX03/8b52940dc216e5da4e6ecdc1315de4a7/raw/c1840d453bd7731b886c242bd67528b9902fcffd/gistfile1.txt",
             "Description": "Exclsuive GUI - Insta Kill, And More!",
             "ThumbNail": "https://i.imgur.com/IPadepP.png",
@@ -209,13 +216,6 @@
             "Description":  "Exclusive GUI - Silent Aim, ESP, Tracers and More!",
             "ThumbNail": "https://i.imgur.com/OFADbEn.png",
             "ID" : "19"
-        },
-        {
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/bdc0a786d0e6b8ba5d68091ae07c3958/raw/64eeec75d06d16f58eb97a5f689f4e3e29aeacab/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/k14CtwI.png",
-            "ID" : "6"
         },
 		{
             "Name": "Wacky Wizards",

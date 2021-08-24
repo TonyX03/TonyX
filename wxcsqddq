@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/8dc80971a415a00dc3f7671812dfdbcd/raw/f0342516e60bcb161e58e81cced56c66ff20004f/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/iWMx38I.png",
+            "ID" : "143"
+        },
 	        {
             "Name": "NEW - Shindo",
             "Url": "https://gist.githubusercontent.com/TonyX03/cb3cd6d7d9335c9d9d876f4e56ce391f/raw/ff1434a0bd2bea105e893e252be1db2f082d0e6b/gistfile1.txt",
@@ -160,13 +167,6 @@
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/cxtNBEa.png",
             "ID" : "148"
-        },
-	{
-            "Name": "Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/ab23c5ddee7038435149dd9918cb74ae/raw/b02d94c294485cf7339d1af86d39539760e1c06a/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/Kd4oK4T.png",
-            "ID" : "143"
         },
 	{
             "Name": "Vehicle Simulator",

@@ -14,22 +14,29 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Your Bizarre Adventure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/6a26aa1e3aac8c5cc5425b222534b68d/raw/daff4541c9dd8fde421d925dc5fcc91f65d89db6/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, Item Search, Mods and More!",
+            "ThumbNail": "https://i.imgur.com/JeHng0K.png",
+            "ID" : "27"
+        },
 	        {
-            "Name": "NEW - Break In",
+            "Name": "Break In",
             "Url": "https://gist.githubusercontent.com/TonyX03/2bcde8652f53505eefae3f57462a4035/raw/30b681e97be4d15c3fcef7cac3c892231ad0415d/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Heal, Kill Bad Guy, And More!",
             "ThumbNail": "https://i.imgur.com/oh7wEeW.png",
             "ID" : "81"
         },
 		{
-            "Name": "NEW - Anime Fighters Simulator",
+            "Name": "Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/13bcb4a995385c1f06e38a66b49c848d/raw/f099802e2dcef38ed5739044f81dbba1cf580272/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/iWMx38I.png",
             "ID" : "143"
         },
 	        {
-            "Name": "NEW - Shindo",
+            "Name": "Shindo",
             "Url": "https://gist.githubusercontent.com/TonyX03/cb3cd6d7d9335c9d9d876f4e56ce391f/raw/ff1434a0bd2bea105e893e252be1db2f082d0e6b/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
             "ThumbNail": "https://i.imgur.com/16Kv6II.png",
@@ -188,13 +195,6 @@
             "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
             "ThumbNail": "https://i.imgur.com/IjFiwiI.png",
             "ID": "40"
-        },
-	{
-            "Name": "Your Bizarre Adventure",
-            "Url": "https://gist.githubusercontent.com/TonyX03/147698b86a4d9981f0f5e0b6f39e4166/raw/4f3f7c4f93f8182031bb081d782304b52fbd9595/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, Item Search, Mods and More!",
-            "ThumbNail": "https://i.imgur.com/L8cL3Jd.png",
-            "ID" : "27"
         },
 	{
             "Name": "BedWars",

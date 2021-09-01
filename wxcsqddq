@@ -14,15 +14,22 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-		{
-            "Name": "NEW - A Universal Time",
+	{
+            "Name": "NEW - Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/3abe0af8c85d6c3fb410948cf57375b7/raw/b9a3b498b88b9a31ed967bf3abfcd3c855b47d10/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/PeuJZ6V.png",
+            "ID" : "6"
+        },
+	{
+            "Name": "A Universal Time",
             "Url": "https://gist.githubusercontent.com/TonyX03/de9cfd10c71e44c669a6ca701a9656e2/raw/c61f836893bb83673f382b364d4185e2a9d02204/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, God Mode, And More!",
             "ThumbNail": "https://i.imgur.com/O9na9Xs.png",
             "ID" : "157"
         },
 	{
-            "Name": "NEW - Zenkai Origins",
+            "Name": "Zenkai Origins",
             "Url": "https://gist.githubusercontent.com/TonyX03/2a15ff9025911270840abb6a6230b1d8/raw/c398f389094b2aff4bdc07330cae64664ebc3803/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, God Mode, And More!",
             "ThumbNail": "https://i.imgur.com/1zIBZR5.png",
@@ -48,13 +55,6 @@
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/iWMx38I.png",
             "ID" : "143"
-        },
-	        {
-            "Name": "Shindo",
-            "Url": "https://gist.githubusercontent.com/TonyX03/cb3cd6d7d9335c9d9d876f4e56ce391f/raw/ff1434a0bd2bea105e893e252be1db2f082d0e6b/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/16Kv6II.png",
-            "ID" : "6"
         },
 	{
             "Name": "Islands",

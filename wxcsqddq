@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	        {
+            "Name": "NEW - Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/155b1f3cfe65fba5e35123a6c0515edc/raw/9e3691f1429fac77a2cb79bc8e771045b693d534/gistfile1.txt",
+            "Description":  "Exclusive GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/uYLSvXI.png",
+            "ID" : "7"
+        },
 	{
             "Name": "NEW - Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/3abe0af8c85d6c3fb410948cf57375b7/raw/b9a3b498b88b9a31ed967bf3abfcd3c855b47d10/gistfile1.txt",
@@ -595,13 +602,6 @@
             "Description": "Exclusive GUI - Auto Farm, Kill Aura And More!",
             "ThumbNail": "https://i.imgur.com/l0TKVT8.png",
             "ID" : "4"
-        },
-        {
-            "Name": "Blox Fruits",
-            "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/pmmpmp",
-            "Description":  "Exclusive GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/uYLSvXI.png",
-            "ID" : "7"
         },
         {
             "Name": "Anime Fighting Simulator",

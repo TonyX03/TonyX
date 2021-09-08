@@ -14,22 +14,29 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-	        {
-            "Name": "NEW - Blox Fruits",
+	{
+            "Name": "NEW - Dragon Blox Ultimate",
+            "Url": "https://gist.githubusercontent.com/TonyX03/f0fcbcd28417ae960ef07d2789a26e35/raw/3ca68068ff922afc1e8394f7e3b8aaaeb4bd940d/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, GOD, Auto Everything!",
+            "ThumbNail": "https://i.imgur.com/cvyuJEP.png",
+            "ID" : "26"
+        },
+	{
+            "Name": "Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/155b1f3cfe65fba5e35123a6c0515edc/raw/9e3691f1429fac77a2cb79bc8e771045b693d534/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/uYLSvXI.png",
             "ID" : "7"
         },
 	{
-            "Name": "NEW - Shindo Life",
+            "Name": "Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/3abe0af8c85d6c3fb410948cf57375b7/raw/b9a3b498b88b9a31ed967bf3abfcd3c855b47d10/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
             "ThumbNail": "https://i.imgur.com/PeuJZ6V.png",
             "ID" : "6"
         },
 	{
-            "Name": "NEW - A Universal Time",
+            "Name": "A Universal Time",
             "Url": "https://gist.githubusercontent.com/TonyX03/f875f2291fe73336444fe3400a06ac27/raw/4e17ed0f728a5eaaaa448088222e0ca0c113c2b3/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, God Mode, And More!",
             "ThumbNail": "https://i.imgur.com/O9na9Xs.png",
@@ -694,13 +701,6 @@
             "Description": "GUI - Points Auto Farm!",
             "ThumbNail": "https://i.imgur.com/vTntCMF.png",
             "ID" : "25"
-        },
-        {
-            "Name": "Dragon Blox Ultimate",
-            "Url": "https://gist.githubusercontent.com/TonyX03/cfa88c6e113384adf903954f200c78f9/raw/1e0d518140ddd03c30e95cc4bc863b92ee4f8045/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, GOD, Auto Everything!",
-            "ThumbNail": "https://i.imgur.com/x8O4PoL.png",
-            "ID" : "26"
         },
         {
             "Name": "Ro Ghoul",

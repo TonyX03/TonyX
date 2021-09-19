@@ -14,14 +14,21 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-		{
-            "Name": "NEW - Blox Fruits",
+	{
+            "Name": "NEW - Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/9ba873924604031ff28e031e7d57b386/raw/df3d98418b405023dbd53d414e36b429ce57fab2/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/627FHd1.png",
+            "ID" : "143"
+        },
+	{
+            "Name": "Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/bfb9a54a8e956cfcb65966cfbececfe5/raw/c890b5bc1b760cbca7e9280101dc91bf6af5682d/gistfile1.txt",
             "Description":  "UPDATE 15 GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
             "ID" : "7"
         },
-	        {
+	{
             "Name": "Dragon Ball Rage",
             "Url": "https://gist.githubusercontent.com/TonyX03/d13bf86035aceea9810cf630f55567dd/raw/b08220817aedc906513489fc1d87667fb63d3a8b/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm & More!",
@@ -76,13 +83,6 @@
             "Description": "Exclusive GUI - Auto Heal, Kill Bad Guy, And More!",
             "ThumbNail": "https://i.imgur.com/oh7wEeW.png",
             "ID" : "81"
-        },
-		{
-            "Name": "Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/13bcb4a995385c1f06e38a66b49c848d/raw/f099802e2dcef38ed5739044f81dbba1cf580272/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/iWMx38I.png",
-            "ID" : "143"
         },
 	{
             "Name": "Islands",

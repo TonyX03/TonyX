@@ -14,7 +14,14 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-		{
+	{
+            "Name": "NEW - King Legacy",
+            "Url": "https://gist.githubusercontent.com/TonyX03/00a5a2e48e0149d4b8c2a0ffc4d29af7/raw/5e138de74890271dc147e27085aa6baa93c59435/gistfile1.txt",
+            "Description":  "Exclusive GUI - Auto Farm, Teleport, and More!",
+            "ThumbNail": "https://i.imgur.com/LEpRMwj.png",
+            "ID" : "30"
+        },
+	{
             "Name": "NEW - Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/0d544dec5a72a68f9743a1016a6c94f1/raw/62b91c4734c0f973bde1d1fb5dd3a7c3aa96d89c/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
@@ -435,13 +442,7 @@
             "ThumbNail": "https://i.imgur.com/qvbLrgI.png",
             "ID" : "34"
         },
-        {
-            "Name": "King Legacy",
-            "Url": "https://gist.githubusercontent.com/TonyX03/56449853bd3c78f90dfc06c76350966b/raw/0466d282a5d69231196d55c133d3aed752806955/gistfile1.txt",
-            "Description":  "Exclusive GUI - Auto Farm, Teleport, and More!",
-            "ThumbNail": "https://i.imgur.com/jHIgKcP.png",
-            "ID" : "30"
-        },
+
         {
             "Name": "Treasure Quest",
             "Url": "https://raw.githubusercontent.com/emperorhubfree/free-scripts/main/TreasureQuest",

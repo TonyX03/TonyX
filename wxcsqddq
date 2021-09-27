@@ -14,8 +14,15 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/0d544dec5a72a68f9743a1016a6c94f1/raw/62b91c4734c0f973bde1d1fb5dd3a7c3aa96d89c/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/PeuJZ6V.png",
+            "ID" : "6"
+        },
 	{
-            "Name": "NEW - Anime Fighters Simulator",
+            "Name": "Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/9ba873924604031ff28e031e7d57b386/raw/df3d98418b405023dbd53d414e36b429ce57fab2/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/627FHd1.png",
@@ -48,13 +55,6 @@
             "Description": "Exclusive GUI - Auto Farm, GOD, Auto Everything!",
             "ThumbNail": "https://i.imgur.com/cvyuJEP.png",
             "ID" : "26"
-        },
-	{
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/3abe0af8c85d6c3fb410948cf57375b7/raw/b9a3b498b88b9a31ed967bf3abfcd3c855b47d10/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/PeuJZ6V.png",
-            "ID" : "6"
         },
 	{
             "Name": "A Universal Time",

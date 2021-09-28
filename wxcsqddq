@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Red Light, Green Light",
+            "Url": "https://gist.githubusercontent.com/TonyX03/290e69f35b362a04b7a4f9446663734d/raw/1f08765cab01ebfe1ff3d869b5878ea3d6348c14/gistfile1.txt",
+            "Description":  "Exclusive GUI - Auto Farm, Auto Win!",
+            "ThumbNail": "https://i.imgur.com/9DVuWon.png",
+            "ID" : "155"
+        },
 	{
             "Name": "NEW - King Legacy",
             "Url": "https://gist.githubusercontent.com/TonyX03/8429a43ddacd3a6dcf2ead2779266219/raw/39c65412a55be747e3ac9973ed235a19995c59ed/gistfile1.txt",

@@ -15,28 +15,35 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW - Fish Game",
+            "Name": "NEW - Grand Piece Online",
+            "Url": "https://gist.githubusercontent.com/TonyX03/0d86a9d1fa4f5e00471a004d43d5b5cc/raw/41bcdf8e23b049fa20227e75b5810ac83c2000ce/gistfile1.txt",
+            "Description":  "Exclusive GUI - Auto Farm, Chest, and More!",
+            "ThumbNail": "https://i.imgur.com/ZzILS0W.png",
+            "ID" : "34"
+        },
+	{
+            "Name": "Fish Game",
             "Url": "https://gist.githubusercontent.com/TonyX03/72798f74ce58cdfece98c9c8f5812af2/raw/a467e848eea9233a4f7ab55aa7f4f16860de453b/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm, Auto Win!",
             "ThumbNail": "https://i.imgur.com/NHqb1hG.png",
             "ID" : "156"
         },
 	{
-            "Name": "NEW - Red Light, Green Light",
+            "Name": "Red Light, Green Light",
             "Url": "https://gist.githubusercontent.com/TonyX03/290e69f35b362a04b7a4f9446663734d/raw/1f08765cab01ebfe1ff3d869b5878ea3d6348c14/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm, Auto Win!",
             "ThumbNail": "https://i.imgur.com/9DVuWon.png",
             "ID" : "155"
         },
 	{
-            "Name": "NEW - King Legacy",
+            "Name": "King Legacy",
             "Url": "https://gist.githubusercontent.com/TonyX03/8429a43ddacd3a6dcf2ead2779266219/raw/39c65412a55be747e3ac9973ed235a19995c59ed/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm, Sea King, Teleport, and More!",
             "ThumbNail": "https://i.imgur.com/LEpRMwj.png",
             "ID" : "30"
         },
 	{
-            "Name": "NEW - Shindo Life",
+            "Name": "Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/0d544dec5a72a68f9743a1016a6c94f1/raw/62b91c4734c0f973bde1d1fb5dd3a7c3aa96d89c/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
             "ThumbNail": "https://i.imgur.com/pisBQkM.png",
@@ -449,14 +456,6 @@
             "ThumbNail": "https://i.imgur.com/vgtOIi6.png",
             "ID" : "125"
         },
-        {
-            "Name": "Grand Piece Online",
-            "Url": "https://gist.githubusercontent.com/TonyX03/255267515e1f02d241bd13d765abc0f9/raw/5f8dc8757addf82829583384598d7a0fd3082781/gistfile1.txt",
-            "Description":  "Exclusive GUI - Auto Farm, Chest, and More!",
-            "ThumbNail": "https://i.imgur.com/qvbLrgI.png",
-            "ID" : "34"
-        },
-
         {
             "Name": "Treasure Quest",
             "Url": "https://raw.githubusercontent.com/emperorhubfree/free-scripts/main/TreasureQuest",

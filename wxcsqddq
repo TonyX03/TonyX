@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 		{
+            "Name": "NEW - Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/2506a7f84401b18239b29a39d87771d1/raw/0ff009a8d4f8cf93dc1e985cf59d011f1d1315cf/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/mqnGVNr.png",
+            "ID" : "6"
+        },
+		{
             "Name": "NEW - Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/cdde72ab21395b05497ee32f4fa662f7/raw/bde394364ac613e9c1559f799c08116adda15ccf/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
@@ -48,13 +55,6 @@
             "Description":  "Exclusive GUI - Auto Farm, Sea King, Teleport, and More!",
             "ThumbNail": "https://i.imgur.com/LEpRMwj.png",
             "ID" : "30"
-        },
-	{
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/0d544dec5a72a68f9743a1016a6c94f1/raw/62b91c4734c0f973bde1d1fb5dd3a7c3aa96d89c/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/pisBQkM.png",
-            "ID" : "6"
         },
 	{
             "Name": "Blox Fruits",

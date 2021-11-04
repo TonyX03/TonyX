@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/cdde72ab21395b05497ee32f4fa662f7/raw/bde394364ac613e9c1559f799c08116adda15ccf/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/0dN4Vwe.png",
+            "ID" : "143"
+        },
 	{
             "Name": "NEW - Grand Piece Online",
             "Url": "https://gist.githubusercontent.com/TonyX03/0d86a9d1fa4f5e00471a004d43d5b5cc/raw/41bcdf8e23b049fa20227e75b5810ac83c2000ce/gistfile1.txt",
@@ -48,13 +55,6 @@
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
             "ThumbNail": "https://i.imgur.com/pisBQkM.png",
             "ID" : "6"
-        },
-	{
-            "Name": "Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/9ba873924604031ff28e031e7d57b386/raw/df3d98418b405023dbd53d414e36b429ce57fab2/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/627FHd1.png",
-            "ID" : "143"
         },
 	{
             "Name": "Blox Fruits",

@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Murder Mystery 2",
+            "Url": "https://gist.githubusercontent.com/TonyX03/4e5a9defb57f96a781c9ef56c42e13ad/raw/922b7de4ec978e7fe9039c6b4b0433295cacae13/gistfile1.txt",
+            "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
+            "ThumbNail": "https://i.imgur.com/uQPO5yU.png",
+            "ID": "40"
+        },
+	{
             "Name": "NEW - Pet Simulator X",
             "Url": "https://gist.githubusercontent.com/TonyX03/d44a735bac66eee37c1f13ed3c3db840/raw/4be7dc0ba83d9d0148269d3834aa61d5ab72a08f/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, And More!",
@@ -258,13 +265,6 @@
             "Description": "Exclusive GUI - Car Settings, Character Cheats, Unblock Perks And Many More!",
             "ThumbNail": "https://i.imgur.com/JqjD3Bx.png",
             "ID" : "99"
-        },
-	{
-            "Name": "Murder Mystery 2",
-            "Url": "https://gist.githubusercontent.com/TonyX03/c32e62ffaa4cc79f1566b8bcc94c167d/raw/2d2470b4925f70ff9954236ac283d399e9d4b6a6/gistfile1.txt",
-            "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
-            "ThumbNail": "https://i.imgur.com/IjFiwiI.png",
-            "ID": "40"
         },
 	{
             "Name": "BedWars",

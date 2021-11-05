@@ -14,14 +14,21 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-		{
+	{
+            "Name": "NEW - Pet Simulator X",
+            "Url": "https://gist.githubusercontent.com/TonyX03/d44a735bac66eee37c1f13ed3c3db840/raw/4be7dc0ba83d9d0148269d3834aa61d5ab72a08f/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/vff99uj.png",
+            "ID" : "153"
+        },
+	{
             "Name": "NEW - Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/2506a7f84401b18239b29a39d87771d1/raw/0ff009a8d4f8cf93dc1e985cf59d011f1d1315cf/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
             "ThumbNail": "https://i.imgur.com/mqnGVNr.png",
             "ID" : "6"
         },
-		{
+	{
             "Name": "NEW - Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/cdde72ab21395b05497ee32f4fa662f7/raw/bde394364ac613e9c1559f799c08116adda15ccf/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
@@ -132,13 +139,6 @@
             "Description": "Exclsuive GUI - Insta Kill, And More!",
             "ThumbNail": "https://i.imgur.com/IPadepP.png",
             "ID" : "154"
-        },
-	{
-            "Name": "Pet Simulator X",
-            "Url": "https://gist.githubusercontent.com/TonyX03/1c249f4aa833431691f255ff39d46a69/raw/256b4e62c22831f791c3091c9ec8a723645dbfc3/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, And More!",
-            "ThumbNail": "https://i.imgur.com/WnqUm0h.png",
-            "ID" : "153"
         },
 	{
             "Name": "Project XL",

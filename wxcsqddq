@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/86f969324b9de60cd3600efc9adfd3ca/raw/c004f5b91e9c4c66edd3dcdd316a02ba0509c925/gistfile1.txt",
+            "Description":  "UPDATE 16 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/RapLPLE.png",
+            "ID" : "7"
+        },
+	{
             "Name": "NEW - Murder Mystery 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/4e5a9defb57f96a781c9ef56c42e13ad/raw/922b7de4ec978e7fe9039c6b4b0433295cacae13/gistfile1.txt",
             "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
@@ -69,13 +76,6 @@
             "Description":  "Exclusive GUI - Auto Farm, Sea King, Teleport, and More!",
             "ThumbNail": "https://i.imgur.com/LEpRMwj.png",
             "ID" : "30"
-        },
-	{
-            "Name": "Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/bfb9a54a8e956cfcb65966cfbececfe5/raw/c890b5bc1b760cbca7e9280101dc91bf6af5682d/gistfile1.txt",
-            "Description":  "UPDATE 15 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
-            "ID" : "7"
         },
 	{
             "Name": "Dragon Ball Rage",

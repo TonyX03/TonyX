@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+			{
+            "Name": "NEW - True Piece",
+            "Url": "https://gist.githubusercontent.com/TonyX03/f70bc0cb636f52230445be48d3b57961/raw/d625c6514725eb1604979988c4374ad0b402ba97/gistfile1.txt",
+            "Description": "Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/MdDc09E.png",
+            "ID" : "158"
+        },
 		{
             "Name": "NEW - Pet Simulator X",
             "Url": "https://gist.githubusercontent.com/TonyX03/dbbb094887789e2c3ce641ce15a8cdc3/raw/8ef1c421163a6d0b6f7a8ef225e78ecdc2aa928d/gistfile1.txt",

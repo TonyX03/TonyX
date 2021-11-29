@@ -14,8 +14,15 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Anime Training Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/b7a2ac4263ddb8a2838f04ffa8f2c635/raw/3718d014ba3bf357237b3917d53482c4f4d4f1d9/gistfile1.txt",
+            "Description": "GUI - Auto Farm, Auto Train, And More!",
+            "ThumbNail": "https://i.imgur.com/sPjHJUp.png",
+            "ID" : "159"
+        },
 	{
-            "Name": "NEW - A Universal Time",
+            "Name": "A Universal Time",
             "Url": "https://gist.githubusercontent.com/TonyX03/4bd5cf827cffe66352a9ffa59fddf3d7/raw/89205251d503c302b3dd35829cecc4d7445ae07d/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, God Mode, And More!",
             "ThumbNail": "https://i.imgur.com/RHuU0Lm.png",

@@ -15,7 +15,14 @@
             "ID" : "2"
         },
 		{
-            "Name": "NEW - Anime Training Simulator",
+            "Name": "NEW - Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/c03f7624fc7d82a69a433aacd78766c2/raw/e9b6d14d1792812423d8e102f4153428a94d7126/gistfile1.txt",
+            "Description":  "UPDATE 17 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/GN1a7qG.png",
+            "ID" : "7"
+        },
+		{
+            "Name": "Anime Training Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/b7a2ac4263ddb8a2838f04ffa8f2c635/raw/3718d014ba3bf357237b3917d53482c4f4d4f1d9/gistfile1.txt",
             "Description": "GUI - Auto Farm, Auto Train, And More!",
             "ThumbNail": "https://i.imgur.com/sPjHJUp.png",
@@ -42,13 +49,7 @@
             "ThumbNail": "https://i.imgur.com/0UY3tMJ.png",
             "ID" : "153"
         },
-	{
-            "Name": "Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/86f969324b9de60cd3600efc9adfd3ca/raw/c004f5b91e9c4c66edd3dcdd316a02ba0509c925/gistfile1.txt",
-            "Description":  "UPDATE 16 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/RapLPLE.png",
-            "ID" : "7"
-        },
+
 	{
             "Name": "Murder Mystery 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/4e5a9defb57f96a781c9ef56c42e13ad/raw/922b7de4ec978e7fe9039c6b4b0433295cacae13/gistfile1.txt",

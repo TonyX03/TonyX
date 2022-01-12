@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	        {
+            "Name": "NEW - Phantom Forces",
+            "Url": "https://gist.githubusercontent.com/TonyX03/0d8e81bba5be5b34f1d650d3a6d0ab18/raw/8a85560ef60f81a6a545da303ccf5e6b073e4177/gistfile1.txt",
+            "Description": "GUI - Aimbot, ESP, Gun Mods and Many More!",
+            "ThumbNail": "https://i.imgur.com/efl2Wzu.png",
+            "ID" : "46"
+        },
 	{
             "Name": "NEW - Anime Clicker Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/184fb5399962601e713009b187eea64a/raw/98b33d847e6b9bd4425f88a7080e370efa15d01a/gistfile1.txt",
@@ -22,7 +29,7 @@
             "ID" : "160"
         },
 	{
-            "Name": "NEW - Blox Fruits",
+            "Name": "Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/c03f7624fc7d82a69a433aacd78766c2/raw/e9b6d14d1792812423d8e102f4153428a94d7126/gistfile1.txt",
             "Description":  "UPDATE 17 GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/GN1a7qG.png",
@@ -809,13 +816,7 @@
             "ThumbNail": "https://i.imgur.com/X5SvR0J.png",
             "ID" : "42"
         },
-        {
-            "Name": "Phantom Forces",
-            "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/feelingcute",
-            "Description": "Exclusive GUI - Aimbot, ESP, Gun Mods and Many More!",
-            "ThumbNail": "https://i.imgur.com/IV2zhkL.png",
-            "ID" : "46"
-        },
+
         {
             "Name": "All Star Tower Defense",
             "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/Idk",

@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Demonfall",
+            "Url": "https://raw.githubusercontent.com/StepBroFurious/Script/main/FuriousFall.lua",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/YN3aicP.png",
+            "ID" : "150"
+        },
 	{
             "Name": "NEW - Bee Swarm Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/1aabbb8cc04e084bb79053a318dbff06/raw/c0e119174b73df84cfaac78f8b9e9445639c1dd7/gistfile1.txt",
@@ -239,13 +246,7 @@
             "ThumbNail": "https://i.imgur.com/BHKEqnd.png",
             "ID" : "151"
         },
-	{
-            "Name": "Demonfall",
-            "Url": "https://gist.githubusercontent.com/TonyX03/3fb50abd9b571cbca966b37a480cf11e/raw/904714ea80d494572d84a195b472d2748a4d9ee2/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/0GzhfgX.png",
-            "ID" : "150"
-        },
+
 	{
             "Name": "Breaking Point",
             "Url": "https://gist.githubusercontent.com/TonyX03/a3bf06b798d63ce67a0355a5f5e1006e/raw/761a03be31b083143437c81763050365ac6fb8ee/gistfile1.txt",

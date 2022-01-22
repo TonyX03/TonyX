@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/511d8ea6ed104918438e149bc6b1f621/raw/446d7081a6d3a932ba485d2dd20b54a34bac2b04/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/cJifXHA.png",
+            "ID" : "143"
+        },
+	{
             "Name": "NEW - Demonfall",
             "Url": "https://gist.githubusercontent.com/TonyX03/c7c3353b6f0b80af5c865e941383ec38/raw/3f1ff872eca8853d585b0a154c6ac88a1c85c024/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
@@ -105,13 +112,6 @@
             "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
             "ThumbNail": "https://i.imgur.com/uQPO5yU.png",
             "ID": "40"
-        },
-	{
-            "Name": "Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/cdde72ab21395b05497ee32f4fa662f7/raw/bde394364ac613e9c1559f799c08116adda15ccf/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/0dN4Vwe.png",
-            "ID" : "143"
         },
 	{
             "Name": "Grand Piece Online",

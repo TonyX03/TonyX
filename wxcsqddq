@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Pet Simulator X",
+            "Url": "https://gist.githubusercontent.com/TonyX03/44d0fb4d4720cd0fe37af359258f103a/raw/b6098f3400f8003ff936b9cdc71ca28a24c0a804/gistfile1.txt",
+            "Description": "GLITCH UPDATE - Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/psp5I4z.png",
+            "ID" : "153"
+        },
+	{
             "Name": "NEW - Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/511d8ea6ed104918438e149bc6b1f621/raw/446d7081a6d3a932ba485d2dd20b54a34bac2b04/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm & More!",
@@ -98,14 +105,6 @@
             "ThumbNail": "https://i.imgur.com/Bv5UcC2.png",
             "ID" : "158"
         },
-	{
-            "Name": "Pet Simulator X",
-            "Url": "https://gist.githubusercontent.com/TonyX03/dbbb094887789e2c3ce641ce15a8cdc3/raw/8ef1c421163a6d0b6f7a8ef225e78ecdc2aa928d/gistfile1.txt",
-            "Description": "ALIEN UPDATE - Auto Farm, And More!",
-            "ThumbNail": "https://i.imgur.com/0UY3tMJ.png",
-            "ID" : "153"
-        },
-
 	{
             "Name": "Murder Mystery 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/4e5a9defb57f96a781c9ef56c42e13ad/raw/922b7de4ec978e7fe9039c6b4b0433295cacae13/gistfile1.txt",

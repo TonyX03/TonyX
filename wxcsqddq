@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	        {
+            "Name": "NEW - Jailbreak",
+            "Url": "https://gist.githubusercontent.com/TonyX03/cfa6d55e9b51e5e01cd2522ca8e638cf/raw/3cad5d4524348cd02047621ca560e8cdd4c65f13/gistfile1.txt",
+            "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
+            "ThumbNail": "https://i.imgur.com/y90oQzK.png",
+            "ID" : "45"
+        },
 		{
             "Name": "Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/62e0ebb32ff710a975a58a4e7b3e58a2/raw/67aa2af9051164c4c0db988171a262f831445b50/gistfile1.txt",
@@ -22,35 +29,35 @@
             "ID" : "6"
         },
 	{
-            "Name": "NEW - Pet Simulator X",
+            "Name": "Pet Simulator X",
             "Url": "https://gist.githubusercontent.com/TonyX03/44d0fb4d4720cd0fe37af359258f103a/raw/b6098f3400f8003ff936b9cdc71ca28a24c0a804/gistfile1.txt",
             "Description": "GLITCH UPDATE - Auto Farm, And More!",
             "ThumbNail": "https://i.imgur.com/psp5I4z.png",
             "ID" : "153"
         },
 	{
-            "Name": "NEW - Anime Fighters Simulator",
+            "Name": "Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/511d8ea6ed104918438e149bc6b1f621/raw/446d7081a6d3a932ba485d2dd20b54a34bac2b04/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/cJifXHA.png",
             "ID" : "143"
         },
 	{
-            "Name": "NEW - Demonfall",
+            "Name": "Demonfall",
             "Url": "https://gist.githubusercontent.com/TonyX03/c7c3353b6f0b80af5c865e941383ec38/raw/3f1ff872eca8853d585b0a154c6ac88a1c85c024/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/YN3aicP.png",
             "ID" : "150"
         },
 	{
-            "Name": "NEW - Deepwoken",
+            "Name": "Deepwoken",
             "Url": "https://gist.githubusercontent.com/TonyX03/fe61df3e2a61a7759a61917f7cfceb19/raw/1409e6bc2f8a23a5ec0c0dbb24ba537968e8cb0d/gistfile1.txt",
             "Description":  "Exclusive GUI - ESP Everything!",
             "ThumbNail": "https://i.imgur.com/BzOqYnV.png",
             "ID" : "162"
         },
 	{
-            "Name": "NEW - Reaper 2",
+            "Name": "Reaper 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/0ae533f8069ee984fbfbca1dadd69017/raw/84595b3707f4a5bf280b931ff5794ca649c977a4/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm And More!",
             "ThumbNail": "https://i.imgur.com/q8jZNE6.png",
@@ -463,13 +470,6 @@
             "Description": "Exclusive GUI - Auto Farm, Anti AFK & More!",
             "ThumbNail": "https://i.imgur.com/PHBVDeh.png",
             "ID" : "128"
-        },
-        {
-            "Name": "Jailbreak",
-            "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/azzeeeezae",
-            "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
-            "ThumbNail": "https://i.imgur.com/UdIepnY.png",
-            "ID" : "45"
         },
         {
             "Name": "Blood Samurai II",

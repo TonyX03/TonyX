@@ -14,8 +14,15 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Weapon Fighting Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/e6d88fa586bb2591c9beeaee80c84a86/raw/1021155650ee997299807df30df241e364698312/gistfile1.txt",
+            "Description":  "Exclusive GUI - Auto Farm & More",
+            "ThumbNail": "https://i.imgur.com/BWzIx67.png",
+            "ID" : "163"
+        },
 	        {
-            "Name": "NEW - Jailbreak",
+            "Name": "Jailbreak",
             "Url": "https://gist.githubusercontent.com/TonyX03/cfa6d55e9b51e5e01cd2522ca8e638cf/raw/3cad5d4524348cd02047621ca560e8cdd4c65f13/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
             "ThumbNail": "https://i.imgur.com/y90oQzK.png",

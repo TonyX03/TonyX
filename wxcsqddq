@@ -14,28 +14,28 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-			{
+	{
             "Name": "NEW - Clicker Simulator",
             "Url": "https://raw.githubusercontent.com/tbitw2549/Clicker-Simulator-V2/main/Main",
             "Description":  "Exclusive GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/MBSk8bN.png",
-            "ID" : "163"
+            "ID" : "164"
         },
-		{
+	{
             "Name": "NEW - Weapon Fighting Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/e6d88fa586bb2591c9beeaee80c84a86/raw/1021155650ee997299807df30df241e364698312/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/BWzIx67.png",
             "ID" : "163"
         },
-	        {
+	{
             "Name": "Jailbreak",
             "Url": "https://gist.githubusercontent.com/TonyX03/cfa6d55e9b51e5e01cd2522ca8e638cf/raw/3cad5d4524348cd02047621ca560e8cdd4c65f13/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
             "ThumbNail": "https://i.imgur.com/y90oQzK.png",
             "ID" : "45"
         },
-		{
+	{
             "Name": "Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/62e0ebb32ff710a975a58a4e7b3e58a2/raw/67aa2af9051164c4c0db988171a262f831445b50/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",

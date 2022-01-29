@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - BedWars",
+            "Url": "https://gist.githubusercontent.com/TonyX03/4206080127a021dd4a32d4141063f2d4/raw/cb0cea00ed5d7d0ec9aa88fbbef55365d834580d/gistfile1.txt",
+            "Description": "Exclusive GUI - Kill Aura, Fly & More!",
+            "ThumbNail": "https://i.imgur.com/QwbMdCe.png",
+            "ID" : "138"
+        },
+	{
             "Name": "NEW - Clicker Simulator",
             "Url": "https://raw.githubusercontent.com/tbitw2549/Clicker-Simulator-V2/main/Main",
             "Description":  "Exclusive GUI - Auto Farm & More",
@@ -329,13 +336,6 @@
             "Description": "Exclusive GUI - Car Settings, Character Cheats, Unblock Perks And Many More!",
             "ThumbNail": "https://i.imgur.com/JqjD3Bx.png",
             "ID" : "99"
-        },
-	{
-            "Name": "BedWars",
-            "Url": "https://gist.githubusercontent.com/TonyX03/cc7086c0fcc36032fcc63cd184e7137a/raw/c82cb7297566f69f6cddf5625f6204559028559e/gistfile1.txt",
-            "Description": "Exclusive GUI - Kill Aura, Fly & More!",
-            "ThumbNail": "https://i.imgur.com/mlOrWm2.png",
-            "ID" : "138"
         },
 	{
             "Name": "Bad Business",

@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+			{
+            "Name": "NEW - Clicker Simulator",
+            "Url": "https://raw.githubusercontent.com/tbitw2549/Clicker-Simulator-V2/main/Main",
+            "Description":  "Exclusive GUI - Auto Farm & More",
+            "ThumbNail": "https://i.imgur.com/MBSk8bN.png",
+            "ID" : "163"
+        },
 		{
             "Name": "NEW - Weapon Fighting Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/e6d88fa586bb2591c9beeaee80c84a86/raw/1021155650ee997299807df30df241e364698312/gistfile1.txt",

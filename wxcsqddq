@@ -15,21 +15,28 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW - BedWars",
+            "Name": "NEW - All Star Tower Defense",
+            "Url": "https://gist.githubusercontent.com/TonyX03/64df9f6a4c22298e4b98ee0673b774b2/raw/26f0ccc454849dfd0049a8e6d97fa51b6b86a7a3/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm And More!!",
+            "ThumbNail": "https://i.imgur.com/RAB0Z8J.png",
+            "ID" : "47"
+        },
+	{
+            "Name": "BedWars",
             "Url": "https://gist.githubusercontent.com/TonyX03/4206080127a021dd4a32d4141063f2d4/raw/cb0cea00ed5d7d0ec9aa88fbbef55365d834580d/gistfile1.txt",
             "Description": "Exclusive GUI - Kill Aura, Fly & More!",
             "ThumbNail": "https://i.imgur.com/QwbMdCe.png",
             "ID" : "138"
         },
 	{
-            "Name": "NEW - Clicker Simulator",
+            "Name": "Clicker Simulator",
             "Url": "https://raw.githubusercontent.com/tbitw2549/Clicker-Simulator-V2/main/Main",
             "Description":  "Exclusive GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/MBSk8bN.png",
             "ID" : "164"
         },
 	{
-            "Name": "NEW - Weapon Fighting Simulator",
+            "Name": "Weapon Fighting Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/e6d88fa586bb2591c9beeaee80c84a86/raw/1021155650ee997299807df30df241e364698312/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/BWzIx67.png",
@@ -843,14 +850,6 @@
             "Description": "Exclusive GUI - Auto Farm Money!",
             "ThumbNail": "https://i.imgur.com/X5SvR0J.png",
             "ID" : "42"
-        },
-
-        {
-            "Name": "All Star Tower Defense",
-            "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/Idk",
-            "Description": "Exclusive GUI - Auto Farm And More!!",
-            "ThumbNail": "https://i.imgur.com/zhNSHH0.png",
-            "ID" : "47"
         },
         {
             "Name": "Ragdoll Engine",

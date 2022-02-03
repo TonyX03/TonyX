@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Anime Fighting Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/cad74f1ea3581dbd86a75c4f1944560d/raw/a9cb5fa5f4f04f2decc24ebd4bccb4b2b9fdcaca/gistfile1.txt",
+            "Description": "Exclusive GUI - Devil Fruits, Auto Stats and More!",
+            "ThumbNail": "https://i.imgur.com/EAQT10F.png",
+            "ID" : "8"
+        },
+	{
             "Name": "NEW - All Star Tower Defense",
             "Url": "https://gist.githubusercontent.com/TonyX03/64df9f6a4c22298e4b98ee0673b774b2/raw/26f0ccc454849dfd0049a8e6d97fa51b6b86a7a3/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm And More!!",
@@ -687,13 +694,6 @@
             "Description": "Exclusive GUI - Auto Farm, Kill Aura And More!",
             "ThumbNail": "https://i.imgur.com/l0TKVT8.png",
             "ID" : "4"
-        },
-        {
-            "Name": "Anime Fighting Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/310d3aa2f95c13eda1c870c33edc2f76/raw/2222bd93dbf81e5f8790c29042a12794d89faf9f/gistfile1.txt",
-            "Description": "Exclusive GUI - Devil Fruits, Auto Stats and More!",
-            "ThumbNail": "https://i.imgur.com/HstOpsi.png",
-            "ID" : "8"
         },
         {
             "Name": "Anime Mania",

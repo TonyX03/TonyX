@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - Your Bizarre Adventure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/2a50b3a0e24d0bc827531ff5b1b492e8/raw/b5928598ccbd10289965259817979b12024f3240/gistfile1.txt",
+            "Description": "Exclusive GUI - Auto Farm, Item Farm, Mods and More!",
+            "ThumbNail": "https://i.imgur.com/i2SAJoK.png",
+            "ID" : "27"
+        },
 	{
             "Name": "NEW - Anime Fighting Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/cad74f1ea3581dbd86a75c4f1944560d/raw/a9cb5fa5f4f04f2decc24ebd4bccb4b2b9fdcaca/gistfile1.txt",
@@ -209,13 +216,6 @@
             "Description": "Exclusive GUI - Auto Farm, God Mode, And More!",
             "ThumbNail": "https://i.imgur.com/1zIBZR5.png",
             "ID" : "156"
-        },
-	{
-            "Name": "Your Bizarre Adventure",
-            "Url": "https://gist.githubusercontent.com/TonyX03/6a26aa1e3aac8c5cc5425b222534b68d/raw/daff4541c9dd8fde421d925dc5fcc91f65d89db6/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, Item Farm, Mods and More!",
-            "ThumbNail": "https://i.imgur.com/JeHng0K.png",
-            "ID" : "27"
         },
 	{
             "Name": "Break In",

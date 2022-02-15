@@ -14,7 +14,14 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-		{
+	{
+            "Name": "NEW - Strucid",
+            "Url": "https://raw.githubusercontent.com/ao-0/methamphetamine-solutions/main/Loader.lua",
+            "Description": "GUI - Aimbot, Wallbang, ESP And More",
+            "ThumbNail": "https://i.imgur.com/9lbYpnt.png",
+            "ID" : "66"
+        },
+	{
             "Name": "NEW - Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/2a50b3a0e24d0bc827531ff5b1b492e8/raw/b5928598ccbd10289965259817979b12024f3240/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, Item Farm, Mods and More!",
@@ -934,13 +941,6 @@
             "Description": "Exclusive GUI - Auto Farm, ,All Bosses And More!",
             "ThumbNail": "https://i.imgur.com/Ecr1PPD.png",
             "ID" : "63"
-        },
-        {
-            "Name": "Strucid",
-            "Url": "https://pastebin.com/raw/aAJjnW1L",
-            "Description": "GUI - Aimbot, Wallbang, ESP And More",
-            "ThumbNail": "https://i.imgur.com/kUQ3V3B.png",
-            "ID" : "66"
         },
         {
             "Name": "Sorcerer Fighting",

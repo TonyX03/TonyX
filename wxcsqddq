@@ -15,28 +15,35 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW - Strucid",
+            "Name": "NEW - Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/511d8ea6ed104918438e149bc6b1f621/raw/446d7081a6d3a932ba485d2dd20b54a34bac2b04/gistfile1.txt",
+            "Description": "UPDATE 21 - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/FwjcSJt.png",
+            "ID" : "143"
+        },
+	{
+            "Name": "Strucid",
             "Url": "https://raw.githubusercontent.com/ao-0/methamphetamine-solutions/main/Loader.lua",
             "Description": "GUI - Aimbot, Wallbang, ESP And More",
             "ThumbNail": "https://i.imgur.com/9lbYpnt.png",
             "ID" : "66"
         },
 	{
-            "Name": "NEW - Your Bizarre Adventure",
+            "Name": "Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/2a50b3a0e24d0bc827531ff5b1b492e8/raw/b5928598ccbd10289965259817979b12024f3240/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, Item Farm, Mods and More!",
             "ThumbNail": "https://i.imgur.com/i2SAJoK.png",
             "ID" : "27"
         },
 	{
-            "Name": "NEW - Anime Fighting Simulator",
+            "Name": "Anime Fighting Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/cad74f1ea3581dbd86a75c4f1944560d/raw/a9cb5fa5f4f04f2decc24ebd4bccb4b2b9fdcaca/gistfile1.txt",
             "Description": "Exclusive GUI - Devil Fruits, Auto Stats and More!",
             "ThumbNail": "https://i.imgur.com/EAQT10F.png",
             "ID" : "8"
         },
 	{
-            "Name": "NEW - All Star Tower Defense",
+            "Name": "All Star Tower Defense",
             "Url": "https://gist.githubusercontent.com/TonyX03/64df9f6a4c22298e4b98ee0673b774b2/raw/26f0ccc454849dfd0049a8e6d97fa51b6b86a7a3/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm And More!!",
             "ThumbNail": "https://i.imgur.com/RAB0Z8J.png",
@@ -83,13 +90,6 @@
             "Description": "GLITCH UPDATE - Auto Farm, And More!",
             "ThumbNail": "https://i.imgur.com/psp5I4z.png",
             "ID" : "153"
-        },
-	{
-            "Name": "Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/511d8ea6ed104918438e149bc6b1f621/raw/446d7081a6d3a932ba485d2dd20b54a34bac2b04/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/cJifXHA.png",
-            "ID" : "143"
         },
 	{
             "Name": "Demonfall",

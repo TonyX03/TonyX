@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Anime Punching Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/db91772801de5b59c7ac117010d93833/raw/87c87fd19e89ce52b932e1d0a3260c31fba53d9c/gistfile1.txt",
+            "Description":  "Exclusive GUI - Auto Farm & More",
+            "ThumbNail": "https://i.imgur.com/9sFsa8d.png",
+            "ID" : "165"
+        },
+	{
             "Name": "NEW - Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/511d8ea6ed104918438e149bc6b1f621/raw/446d7081a6d3a932ba485d2dd20b54a34bac2b04/gistfile1.txt",
             "Description": "UPDATE 21 - Auto Farm & More!",

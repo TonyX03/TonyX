@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Clicker Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/a2d60ae09fb3e9cbccc2b86a62463123/raw/674faa881847ec5ac31d88093825a1c5c42dca44/gistfile1.txt",
+            "Description":  "#1 GUI - Auto Farm & More",
+            "ThumbNail": "https://i.imgur.com/sjvkMFY.png",
+            "ID" : "164"
+        },
+	{
             "Name": "NEW - Anime Punching Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/96ab6b8728ebcc14f6e11f1b5c459072/raw/3a6c2379492059a833420614f7bca42fab841416/gistfile1.txt",
             "Description":  "Exclusive GUI - Auto Farm & More",
@@ -62,13 +69,6 @@
             "Description": "Exclusive GUI - Kill Aura, Fly & More!",
             "ThumbNail": "https://i.imgur.com/QwbMdCe.png",
             "ID" : "138"
-        },
-	{
-            "Name": "Clicker Simulator",
-            "Url": "https://raw.githubusercontent.com/tbitw2549/Clicker-Simulator-V2/main/Main",
-            "Description":  "Exclusive GUI - Auto Farm & More",
-            "ThumbNail": "https://i.imgur.com/MBSk8bN.png",
-            "ID" : "164"
         },
 	{
             "Name": "Weapon Fighting Simulator",

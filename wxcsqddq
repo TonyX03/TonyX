@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	{
+            "Name": "NEW - Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/6c044d06be29d8fa8f2e2f7b372da8bb/raw/759deb40c8686753b81e5b50afb8d804c9f52036/gistfile1.txt",
+            "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/9Wlajrt.png",
+            "ID" : "7"
+        },
 		{
             "Name": "NEW - Anime Battlegrounds X",
             "Url": "https://gist.githubusercontent.com/TonyX03/5b3350f5d2b10e9a085d7799e4b78e3e/raw/ca57f3c6905f9c9c4455e8677ca27b76a9bd7c0b/gistfile1.txt",
@@ -146,13 +153,6 @@
             "Description":  "Exclusive GUI - Auto Farm And More!",
             "ThumbNail": "https://i.imgur.com/syZ7MTv.png",
             "ID" : "160"
-        },
-	{
-            "Name": "Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/c03f7624fc7d82a69a433aacd78766c2/raw/e9b6d14d1792812423d8e102f4153428a94d7126/gistfile1.txt",
-            "Description":  "UPDATE 17 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/GN1a7qG.png",
-            "ID" : "7"
         },
 	{
             "Name": "Anime Training Simulator",

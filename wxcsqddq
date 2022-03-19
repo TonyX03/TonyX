@@ -14,22 +14,29 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW - BedWars",
+            "Url": "https://gist.githubusercontent.com/TonyX03/4206080127a021dd4a32d4141063f2d4/raw/cb0cea00ed5d7d0ec9aa88fbbef55365d834580d/gistfile1.txt",
+            "Description": "SEASON 4 - Kill Aura, Fly & More!",
+            "ThumbNail": "https://i.imgur.com/uLtbZ1X.png",
+            "ID" : "138"
+        },
 	{
-            "Name": "NEW - Blox Fruits",
+            "Name": "Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/6c044d06be29d8fa8f2e2f7b372da8bb/raw/759deb40c8686753b81e5b50afb8d804c9f52036/gistfile1.txt",
             "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/9Wlajrt.png",
             "ID" : "7"
         },
 		{
-            "Name": "NEW - Anime Battlegrounds X",
+            "Name": "Anime Battlegrounds X",
             "Url": "https://gist.githubusercontent.com/TonyX03/5b3350f5d2b10e9a085d7799e4b78e3e/raw/ca57f3c6905f9c9c4455e8677ca27b76a9bd7c0b/gistfile1.txt",
             "Description":  "BEST GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/gWJ3Hj0.png",
             "ID" : "166"
         },
 	{
-            "Name": "NEW - Clicker Simulator",
+            "Name": "Clicker Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/a2d60ae09fb3e9cbccc2b86a62463123/raw/674faa881847ec5ac31d88093825a1c5c42dca44/gistfile1.txt",
             "Description":  "#1 GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/sjvkMFY.png",
@@ -76,13 +83,6 @@
             "Description": "Exclusive GUI - Auto Farm And More!!",
             "ThumbNail": "https://i.imgur.com/RAB0Z8J.png",
             "ID" : "47"
-        },
-	{
-            "Name": "BedWars",
-            "Url": "https://gist.githubusercontent.com/TonyX03/4206080127a021dd4a32d4141063f2d4/raw/cb0cea00ed5d7d0ec9aa88fbbef55365d834580d/gistfile1.txt",
-            "Description": "Exclusive GUI - Kill Aura, Fly & More!",
-            "ThumbNail": "https://i.imgur.com/QwbMdCe.png",
-            "ID" : "138"
         },
 	{
             "Name": "Weapon Fighting Simulator",

@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/7112f1073817d526d08269689c891792/raw/97e197d5ac6ed104033342361e84126b52f355f9/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/ABI7rTu.png",
+            "ID" : "6"
+        },
+	{
             "Name": "NEW Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/084e5ad61fa84451665b4b043d2e058a/raw/0820f280791d7ed97677add7fc3352761eeca826/gistfile1.txt",
             "Description": "UPDATE 23 - Auto Farm & More!",
@@ -104,13 +111,6 @@
             "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
             "ThumbNail": "https://i.imgur.com/y90oQzK.png",
             "ID" : "45"
-        },
-	{
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/62e0ebb32ff710a975a58a4e7b3e58a2/raw/67aa2af9051164c4c0db988171a262f831445b50/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/eyHvWNn.png",
-            "ID" : "6"
         },
 	{
             "Name": "Pet Simulator X",

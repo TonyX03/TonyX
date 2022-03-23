@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW - Murder Mystery 2",
+            "Url": "https://gist.githubusercontent.com/TonyX03/536f0729a9cb3495438a4d7f5a28785e/raw/e80c8020482c50e64a9170a7cdfcc2bcbe108c44/gistfile1.txt",
+            "Description": "BEST GUI - ESP, Coin Farm, Speed And Many More!",
+            "ThumbNail": "https://i.imgur.com/S3QNVVi.png",
+            "ID": "40"
+        },
+	{
             "Name": "NEW Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/10826851d42dc99fc438e8a0704761a0/raw/0f683661f2e69954c51b80cd98adcb2b35fd4016/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
@@ -181,13 +188,6 @@
             "Description": "Auto Farm and TP And More!",
             "ThumbNail": "https://i.imgur.com/Bv5UcC2.png",
             "ID" : "158"
-        },
-	{
-            "Name": "Murder Mystery 2",
-            "Url": "https://gist.githubusercontent.com/TonyX03/4e5a9defb57f96a781c9ef56c42e13ad/raw/922b7de4ec978e7fe9039c6b4b0433295cacae13/gistfile1.txt",
-            "Description": "Exclusive GUI - ESP, Coin Farm, Speed And Many More!",
-            "ThumbNail": "https://i.imgur.com/uQPO5yU.png",
-            "ID": "40"
         },
 	{
             "Name": "Grand Piece Online",

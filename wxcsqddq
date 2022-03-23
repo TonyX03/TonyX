@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Clicker Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/8a55c53728fc1b2266f93af293c4ebc7/raw/7eb6e6bd8a2392290f4421e9beec020f710b2f5c/gistfile1.txt",
+            "Description":  "#1 GUI - Auto Farm & More",
+            "ThumbNail": "https://i.imgur.com/0Z7sBMT.png",
+            "ID" : "164"
+        },
+	{
             "Name": "NEW - Murder Mystery 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/536f0729a9cb3495438a4d7f5a28785e/raw/e80c8020482c50e64a9170a7cdfcc2bcbe108c44/gistfile1.txt",
             "Description": "BEST GUI - ESP, Coin Farm, Speed And Many More!",
@@ -62,13 +69,6 @@
             "Description":  "BEST GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/gWJ3Hj0.png",
             "ID" : "166"
-        },
-	{
-            "Name": "Clicker Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/a2d60ae09fb3e9cbccc2b86a62463123/raw/674faa881847ec5ac31d88093825a1c5c42dca44/gistfile1.txt",
-            "Description":  "#1 GUI - Auto Farm & More",
-            "ThumbNail": "https://i.imgur.com/sjvkMFY.png",
-            "ID" : "164"
         },
 	{
             "Name": "Anime Punching Simulator",

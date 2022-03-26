@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Pet Simulator X",
+            "Url": "https://gist.githubusercontent.com/TonyX03/6ba9a020bae6b40d17dd72da671c574a/raw/8921845e1aff4e05360152ab48c0842f54bb7363/gistfile1.txt",
+            "Description": "8 Bit UPDATE - Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/Bqf9jdd.png",
+            "ID" : "153"
+        },
+	{
             "Name": "NEW Anime Dimensions",
             "Url": "https://gist.githubusercontent.com/TonyX03/f78aa57e94fe963b1e31a66962452a55/raw/1f3630b77b4069823539c1f74dd05a380e2b0adf/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm!",
@@ -125,13 +132,6 @@
             "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
             "ThumbNail": "https://i.imgur.com/y90oQzK.png",
             "ID" : "45"
-        },
-	{
-            "Name": "Pet Simulator X",
-            "Url": "https://gist.githubusercontent.com/TonyX03/44d0fb4d4720cd0fe37af359258f103a/raw/b6098f3400f8003ff936b9cdc71ca28a24c0a804/gistfile1.txt",
-            "Description": "GLITCH UPDATE - Auto Farm, And More!",
-            "ThumbNail": "https://i.imgur.com/psp5I4z.png",
-            "ID" : "153"
         },
 	{
             "Name": "Demonfall",

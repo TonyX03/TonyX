@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Demonfall",
+            "Url": "https://gist.githubusercontent.com/TonyX03/4e7ad4d17baa02c651bf8c11f92491c1/raw/7f217a7e74e5ec5c14028c0d4b2d66b9d0200e1a/gistfile1.txt",
+            "Description": "UPDATE 3.0 - Auto Farm!",
+            "ThumbNail": "https://i.imgur.com/3pY1YZi.png",
+            "ID" : "150"
+        },
+	{
             "Name": "NEW Treasure Quest",
             "Url": "https://gist.githubusercontent.com/TonyX03/c8f3ee024e68f618d0debc8e203d06a5/raw/988330ad4de5c2cbb4e1a29a2271f557c488acde/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Insta Kill & More!",
@@ -168,13 +175,6 @@
             "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
             "ThumbNail": "https://i.imgur.com/y90oQzK.png",
             "ID" : "45"
-        },
-	{
-            "Name": "Demonfall",
-            "Url": "https://gist.githubusercontent.com/TonyX03/c7c3353b6f0b80af5c865e941383ec38/raw/3f1ff872eca8853d585b0a154c6ac88a1c85c024/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm!",
-            "ThumbNail": "https://i.imgur.com/YN3aicP.png",
-            "ID" : "150"
         },
 	{
             "Name": "Deepwoken",

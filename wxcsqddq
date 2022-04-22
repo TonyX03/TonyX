@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Treasure Quest",
+            "Url": "https://gist.githubusercontent.com/TonyX03/001e6b5d946d590ce3c589d8afa50d69/raw/1edacd84afa133ea0a46682eba94820f9f635ae0/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, Insta Kill & More!",
+            "ThumbNail": "https://i.imgur.com/jXEjGQj.png",
+            "ID" : "123"
+        },
+	{
             "Name": "NEW Dragon Blox",
             "Url": "https://gist.githubusercontent.com/TonyX03/d4dae5e4da39acf66801e446864dea28/raw/591b993eabcd4103d8395aac50ec4614ce3d262e/gistfile1.txt",
             "Description": "UPDATE 10.5 - Auto Farm & More!",
@@ -583,13 +590,6 @@
             "Description": "Exclusive GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/vgtOIi6.png",
             "ID" : "125"
-        },
-        {
-            "Name": "Treasure Quest",
-            "Url": "https://raw.githubusercontent.com/emperorhubfree/free-scripts/main/TreasureQuest",
-            "Description": "GUI - Auto Farm, Insta Kill & More!",
-            "ThumbNail": "https://i.imgur.com/3v10ygb.png",
-            "ID" : "123"
         },
         {
             "Name": "Critical Expedition",

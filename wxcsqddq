@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Stand Upright Rebooted",
+            "Url": "https://gist.githubusercontent.com/TonyX03/6b65c87386dbd45e98a3a6de00f08fe9/raw/4705b4a759d41c94534a5b3a7aa3a3c9dff6dada/gistfile1.txt",
+            "Description": "BEST GUI - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/6DqP4md.png",
+            "ID" : "170"
+        },
+	{
             "Name": "NEW Demonfall",
             "Url": "https://gist.githubusercontent.com/TonyX03/ad248d2f5cd9a9b6f980e252185bdb37/raw/fd025890e409fa3fa92d5e4c1add686a0d5bbb4f/gistfile1.txt",
             "Description": "UPDATE 3.0 - Auto Farm!",
@@ -34,13 +41,6 @@
             "Description": "UPDATE 10.5 - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/zFu7ZyE.png",
             "ID" : "171"
-        },
-	{
-            "Name": "NEW Stand Upright Rebooted",
-            "Url": "https://gist.githubusercontent.com/TonyX03/d76eeca5f0af81fd3400a0f323b06362/raw/4b05f48620d8a16f34bfd94cc6616ce8a5844d7e/gistfile1.txt",
-            "Description": "NEW UPDATE - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/6DqP4md.png",
-            "ID" : "170"
         },
 	{
             "Name": "NEW Sonic Speed Simulator",

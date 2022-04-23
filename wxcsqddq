@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/34c404d6e6cf1af23a13d3ab69c3648e/raw/4322f0c57adadb8efc965ea5dfe41038ef336727/gistfile1.txt",
+            "Description": "UPDATE 25.3 - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/RMayV7R.png",
+            "ID" : "143"
+        },
+	{
             "Name": "NEW King Legacy",
             "Url": "https://gist.githubusercontent.com/TonyX03/41f8d6bdcfb2b4818518e44483f8296e/raw/39c5da282fa6a0b531c72464c69c4bbaa0f881ec/gistfile1.txt",
             "Description":  "UPDATE 3.5 - Auto Farm, Sea King, Teleport, and More!",
@@ -29,28 +36,28 @@
             "ID" : "170"
         },
 	{
-            "Name": "NEW Demonfall",
+            "Name": "Demonfall",
             "Url": "https://gist.githubusercontent.com/TonyX03/ad248d2f5cd9a9b6f980e252185bdb37/raw/fd025890e409fa3fa92d5e4c1add686a0d5bbb4f/gistfile1.txt",
             "Description": "UPDATE 3.0 - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/3pY1YZi.png",
             "ID" : "150"
         },
 	{
-            "Name": "NEW Treasure Quest",
+            "Name": "Treasure Quest",
             "Url": "https://gist.githubusercontent.com/TonyX03/c8f3ee024e68f618d0debc8e203d06a5/raw/988330ad4de5c2cbb4e1a29a2271f557c488acde/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Insta Kill & More!",
             "ThumbNail": "https://i.imgur.com/jXEjGQj.png",
             "ID" : "123"
         },
 	{
-            "Name": "NEW Dragon Blox",
+            "Name": "Dragon Blox",
             "Url": "https://gist.githubusercontent.com/TonyX03/dc66182149ecf3f5f5f6fcc912c713f7/raw/22f58e3f64178e7f80fb37801775b155417643da/gistfile1.txt",
             "Description": "UPDATE 10.5 - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/zFu7ZyE.png",
             "ID" : "171"
         },
 	{
-            "Name": "NEW Sonic Speed Simulator",
+            "Name": "Sonic Speed Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/5316b4df3a83f6dbd9a3a341fe09d9e0/raw/ea52f50767365a20233d609284f85bf5205815d0/gistfile1.txt",
             "Description": "NEW OP - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/r4qMo00.png",
@@ -69,13 +76,6 @@
             "Description": "UPDATE 6 - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/xGpK0Cp.png",
             "ID" : "168"
-        },
-	{
-            "Name": "NEW Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/34c404d6e6cf1af23a13d3ab69c3648e/raw/4322f0c57adadb8efc965ea5dfe41038ef336727/gistfile1.txt",
-            "Description": "UPDATE 24 - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/Zr2qNxL.png",
-            "ID" : "143"
         },
 	{
             "Name": "Pet Simulator X",

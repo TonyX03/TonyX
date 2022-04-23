@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW King Legacy",
+            "Url": "https://gist.githubusercontent.com/TonyX03/41f8d6bdcfb2b4818518e44483f8296e/raw/39c5da282fa6a0b531c72464c69c4bbaa0f881ec/gistfile1.txt",
+            "Description":  "UPDATE 3.5 - Auto Farm, Sea King, Teleport, and More!",
+            "ThumbNail": "https://i.imgur.com/l9Eqi0X.png",
+            "ID" : "30"
+        },
+	{
             "Name": "NEW Stand Upright Rebooted",
             "Url": "https://gist.githubusercontent.com/TonyX03/7de9d534237d0ae4b3d859c09ecda34a/raw/8d780e7fbaca985f47885137dcbdfd3c2010d85a/gistfile1.txt",
             "Description": "BEST GUI - Auto Farm & More!",
@@ -252,13 +259,6 @@
             "Description":  "Exclusive GUI - Auto Farm, Auto Win!",
             "ThumbNail": "https://i.imgur.com/9DVuWon.png",
             "ID" : "155"
-        },
-	{
-            "Name": "King Legacy",
-            "Url": "https://gist.githubusercontent.com/TonyX03/8429a43ddacd3a6dcf2ead2779266219/raw/39c65412a55be747e3ac9973ed235a19995c59ed/gistfile1.txt",
-            "Description":  "Exclusive GUI - Auto Farm, Sea King, Teleport, and More!",
-            "ThumbNail": "https://i.imgur.com/LEpRMwj.png",
-            "ID" : "30"
         },
 	{
             "Name": "Dragon Ball Rage",

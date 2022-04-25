@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Your Bizarre Adventure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/d677c17337e6be7024fd2788c76389e8/raw/680c48d71db938f0c5585e7911708d9a94ec4cd3/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
+            "ThumbNail": "https://i.imgur.com/ynGaBjZ.png",
+            "ID" : "27"
+        },
+	{
             "Name": "NEW Anime Fighting Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/4d25fa0661acf136f404bf7c5795f2b0/raw/0734006b65c118f21b5b490e6f2cebc5ca51bb89/gistfile1.txt",
             "Description": "BEST GUI - Devil Fruits, Auto Stats and More!",
@@ -154,13 +161,6 @@
             "Description": "GUI - Aimbot, Wallbang, ESP And More",
             "ThumbNail": "https://i.imgur.com/9lbYpnt.png",
             "ID" : "66"
-        },
-	{
-            "Name": "Your Bizarre Adventure",
-            "Url": "https://gist.githubusercontent.com/TonyX03/2a50b3a0e24d0bc827531ff5b1b492e8/raw/b5928598ccbd10289965259817979b12024f3240/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm, Item Farm, Mods and More!",
-            "ThumbNail": "https://i.imgur.com/i2SAJoK.png",
-            "ID" : "27"
         },
 	{
             "Name": "All Star Tower Defense",

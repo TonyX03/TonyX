@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Phantom Forces",
+            "Url": "https://gist.githubusercontent.com/TonyX03/48f116d4f2cca0d331cccc6482bcedd5/raw/2cb27afd2c00c57a43463800fd4112f1fdabb35e/gistfile1.txt",
+            "Description": "NEW GUI - Aimbot, ESP, Gun Mods and Many More!",
+            "ThumbNail": "https://i.imgur.com/TQUpDP9.png",
+            "ID" : "46"
+        },
+	{
             "Name": "NEW Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/d677c17337e6be7024fd2788c76389e8/raw/680c48d71db938f0c5585e7911708d9a94ec4cd3/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
@@ -29,21 +36,21 @@
             "ID" : "8"
         },
 	{
-            "Name": "NEW Anime Fighters Simulator",
+            "Name": "Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/34c404d6e6cf1af23a13d3ab69c3648e/raw/4322f0c57adadb8efc965ea5dfe41038ef336727/gistfile1.txt",
             "Description": "UPDATE 25.3 - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/RMayV7R.png",
             "ID" : "143"
         },
 	{
-            "Name": "NEW King Legacy",
+            "Name": "King Legacy",
             "Url": "https://gist.githubusercontent.com/TonyX03/41f8d6bdcfb2b4818518e44483f8296e/raw/39c5da282fa6a0b531c72464c69c4bbaa0f881ec/gistfile1.txt",
             "Description":  "UPDATE 3.5 - Auto Farm, Sea King, Teleport, and More!",
             "ThumbNail": "https://i.imgur.com/l9Eqi0X.png",
             "ID" : "30"
         },
 	{
-            "Name": "NEW Stand Upright Rebooted",
+            "Name": "Stand Upright Rebooted",
             "Url": "https://gist.githubusercontent.com/TonyX03/7de9d534237d0ae4b3d859c09ecda34a/raw/8d780e7fbaca985f47885137dcbdfd3c2010d85a/gistfile1.txt",
             "Description": "BEST GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/6DqP4md.png",
@@ -203,13 +210,6 @@
             "Description": "The Best GUI, Auto Farm Everything...",
             "ThumbNail": "https://i.imgur.com/Cw9A19j.png",
             "ID" : "85"
-        },
-	       {
-            "Name": "Phantom Forces",
-            "Url": "https://gist.githubusercontent.com/TonyX03/0d8e81bba5be5b34f1d650d3a6d0ab18/raw/8a85560ef60f81a6a545da303ccf5e6b073e4177/gistfile1.txt",
-            "Description": "GUI - Aimbot, ESP, Gun Mods and Many More!",
-            "ThumbNail": "https://i.imgur.com/efl2Wzu.png",
-            "ID" : "46"
         },
 	{
             "Name": "Anime Clicker Simulator",

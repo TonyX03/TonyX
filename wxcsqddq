@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	 {
+            "Name": "NEW Anime Battle Arena",
+            "Url": "https://gist.githubusercontent.com/TonyX03/fa7aa69eab9f4c8ccb5e2d23f44b6d6d/raw/eb265565cabaa66bd162918e5fe9894253ab0f25/gistfile1.txt",
+            "Description": "BEST GUI - No Stun, Hitbox Extender, And More!",
+            "ThumbNail": "https://i.imgur.com/QlwcAZR.png",
+            "ID" : "43"
+        },
 	{
             "Name": "NEW 3008",
             "Url": "https://gist.githubusercontent.com/TonyX03/bf7b4fa1e33c167512b1a88eb5bb5626/raw/835d300de499af480a81db6e4b102b0641304eff/gistfile1.txt",
@@ -639,13 +646,6 @@
             "Description": "GUI - Auto Farm, Kill Aura, And More!",
             "ThumbNail": "https://i.imgur.com/CDXNV4I.png",
             "ID" : "118"
-        },
-        {
-            "Name": "Anime Battle Arena",
-            "Url": "https://gist.githubusercontent.com/TonyX03/07a9e46a600f5c172a059cce059e6b33/raw/0fc22f7058424c855f2da86c23484c7cf59cd3c6/gistfile1.txt",
-            "Description": "Exclusive GUI - No Stun, Hitbox Extender, And More!",
-            "ThumbNail": "https://i.imgur.com/TPU4tST.png",
-            "ID" : "43"
         },
         {
             "Name": "Car Crushers 2",

@@ -14,43 +14,50 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	{
+            "Name": "NEW Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/1f1eac720e4958b5807ee019778c36c6/raw/e7bbe1d3ef81e1e07fe504f33ecbd6ebf1061336/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/srp0Bcv.png",
+            "ID" : "6"
+        },
 	 {
-            "Name": "NEW Anime Battle Arena",
+            "Name": "Anime Battle Arena",
             "Url": "https://gist.githubusercontent.com/TonyX03/7278e3dcbd7822f6e1e9850ccc604612/raw/2fbd1cc0e199f80f9d55056e3020230a26a1f10f/gistfile1.txt",
             "Description": "BEST GUI - No Stun, Hitbox Extender, And More!",
             "ThumbNail": "https://i.imgur.com/QlwcAZR.png",
             "ID" : "43"
         },
 	{
-            "Name": "NEW 3008",
+            "Name": "3008",
             "Url": "https://gist.githubusercontent.com/TonyX03/2253b347234eb322845219ec2bd9dc7d/raw/9ed05dbd024e032234fa1922ea9001f5612029d0/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/YnP5lYM.png",
             "ID" : "173"
         },
 	{
-            "Name": "NEW Bot Clash",
+            "Name": "Bot Clash",
             "Url": "https://gist.githubusercontent.com/TonyX03/2102cfe2b71f6e615d3bad3f802c6c30/raw/006b948b6ce16fb1c71b8d1a5cf70da15b37e28b/gistfile1.txt",
             "Description": "BEST GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/oQKKUu2.png",
             "ID" : "172"
         },
 	{
-            "Name": "NEW Phantom Forces",
+            "Name": "Phantom Forces",
             "Url": "https://gist.githubusercontent.com/TonyX03/48f116d4f2cca0d331cccc6482bcedd5/raw/2cb27afd2c00c57a43463800fd4112f1fdabb35e/gistfile1.txt",
             "Description": "NEW GUI - Aimbot, ESP, Gun Mods and Many More!",
             "ThumbNail": "https://i.imgur.com/TQUpDP9.png",
             "ID" : "46"
         },
 	{
-            "Name": "NEW Your Bizarre Adventure",
+            "Name": "Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/d677c17337e6be7024fd2788c76389e8/raw/680c48d71db938f0c5585e7911708d9a94ec4cd3/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
             "ThumbNail": "https://i.imgur.com/ynGaBjZ.png",
             "ID" : "27"
         },
 	{
-            "Name": "NEW Anime Fighting Simulator",
+            "Name": "Anime Fighting Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/4d25fa0661acf136f404bf7c5795f2b0/raw/0734006b65c118f21b5b490e6f2cebc5ca51bb89/gistfile1.txt",
             "Description": "BEST GUI - Devil Fruits, Auto Stats and More!",
             "ThumbNail": "https://i.imgur.com/mQoqama.png",
@@ -146,13 +153,6 @@
             "Description": "BEST GUI - ESP, Coin Farm, Speed And Many More!",
             "ThumbNail": "https://i.imgur.com/S3QNVVi.png",
             "ID": "40"
-        },
-	{
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/10826851d42dc99fc438e8a0704761a0/raw/0f683661f2e69954c51b80cd98adcb2b35fd4016/gistfile1.txt",
-            "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/ABI7rTu.png",
-            "ID" : "6"
         },
 	{
             "Name": "Rebirth Champions X",

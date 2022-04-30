@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Clicker Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/5acb7180b4bd4a341d9b04ea1b4fcfd3/raw/7f092d2d761d18a62020ad4dffb332a35b18b375/gistfile1.txt",
+            "Description":  "#1 GUI - Auto Farm & More",
+            "ThumbNail": "https://i.imgur.com/Mm4IbOC.png",
+            "ID" : "164"
+        },
+	{
             "Name": "NEW Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/1f1eac720e4958b5807ee019778c36c6/raw/e7bbe1d3ef81e1e07fe504f33ecbd6ebf1061336/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
@@ -139,13 +146,6 @@
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/VmtfBqO.png",
             "ID" : "148"
-        },
-	{
-            "Name": "Clicker Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/8a55c53728fc1b2266f93af293c4ebc7/raw/7eb6e6bd8a2392290f4421e9beec020f710b2f5c/gistfile1.txt",
-            "Description":  "#1 GUI - Auto Farm & More",
-            "ThumbNail": "https://i.imgur.com/0Z7sBMT.png",
-            "ID" : "164"
         },
 	{
             "Name": "Murder Mystery 2",

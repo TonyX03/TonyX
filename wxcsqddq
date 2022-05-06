@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Ro Ghoul",
+            "Url": "https://gist.githubusercontent.com/TonyX03/30f0701c1fe3e8e0beec325a6cfc06b9/raw/f8616cefff8ed9f74b502400c3b4eaa3a7b742cf/gistfile1.txt",
+            "Description": "NEW GUI - Auto Farm, Rep Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/Qh95Ztg.png",
+            "ID" : "28"
+        },
+	{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/147255d57966f1a335052ebce9eb1d27/raw/8ce4e5ea62a0b1f95273f5293f42d2837392cc7b/gistfile1.txt",
             "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
@@ -857,13 +864,6 @@
             "Description": "GUI - Points Auto Farm!",
             "ThumbNail": "https://i.imgur.com/vTntCMF.png",
             "ID" : "25"
-        },
-        {
-            "Name": "Ro Ghoul",
-            "Url": "https://raw.githubusercontent.com/TonyX03/TonyX/main/ro",
-            "Description": "Exclusive GUI - Auto Farm, Rep Farm, And More!",
-            "ThumbNail": "https://i.imgur.com/76kH8IO.png",
-            "ID" : "28"
         },
         {
             "Name": "Super Power Training Sim",

@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Anime Fighters Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/34c404d6e6cf1af23a13d3ab69c3648e/raw/4322f0c57adadb8efc965ea5dfe41038ef336727/gistfile1.txt",
+            "Description": "UPDATE 27 - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/0NngjHI.png",
+            "ID" : "143"
+        },
+	{
             "Name": "NEW Goal Kick Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/ea62603c8714026c8bbf3ab34ff51235/raw/8875228fc227def95183c9e4f24327728f9949e3/gistfile1.txt",
             "Description": "Best GUI - Aimbot, ESP & More!",
@@ -139,13 +146,6 @@
             "Description": "BEST GUI - Devil Fruits, Auto Stats and More!",
             "ThumbNail": "https://i.imgur.com/mQoqama.png",
             "ID" : "8"
-        },
-	{
-            "Name": "Anime Fighters Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/34c404d6e6cf1af23a13d3ab69c3648e/raw/4322f0c57adadb8efc965ea5dfe41038ef336727/gistfile1.txt",
-            "Description": "UPDATE 25.3 - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/RMayV7R.png",
-            "ID" : "143"
         },
 	{
             "Name": "King Legacy",

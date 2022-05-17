@@ -15,28 +15,35 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW Anime Fighters Simulator",
+            "Name": "NEW Combat Warriors",
+            "Url": "https://gist.githubusercontent.com/TonyX03/bf099a8b728710501f97de47fe7f7334/raw/7f87901f94b0270c8e329656b614e179f46a6cee/gistfile1.txt",
+            "Description": "OP GUI - Aimbot, ESP & More!",
+            "ThumbNail": "https://i.imgur.com/DfPE17k.png",
+            "ID" : "177"
+        },
+	{
+            "Name": "Anime Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/34c404d6e6cf1af23a13d3ab69c3648e/raw/4322f0c57adadb8efc965ea5dfe41038ef336727/gistfile1.txt",
             "Description": "UPDATE 27 - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/0NngjHI.png",
             "ID" : "143"
         },
 	{
-            "Name": "NEW Goal Kick Simulator",
+            "Name": "Goal Kick Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/ea62603c8714026c8bbf3ab34ff51235/raw/8875228fc227def95183c9e4f24327728f9949e3/gistfile1.txt",
-            "Description": "Best GUI - Aimbot, ESP & More!",
+            "Description": "Best GUI - Aimbot, Farm & More!",
             "ThumbNail": "https://i.imgur.com/6i3i4Ez.png",
             "ID" : "176"
         },
 	{
-            "Name": "NEW Sonic Speed Simulator",
+            "Name": "Sonic Speed Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/a30ebd8c6cf2eafb835a6efa6ee0531f/raw/5921905e9b3d4705b223157428826afed9911b0b/gistfile1.txt",
             "Description": "NEW OP - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/cL69guL.png",
             "ID" : "169"
         },
 	{
-            "Name": "NEW Grand Piece Online",
+            "Name": "Grand Piece Online",
             "Url": "https://gist.githubusercontent.com/TonyX03/1d3229c3f5f8bced7458b6607ffe05e4/raw/26ae8b718fff98eb7a71e49a649b9b77bd417059/gistfile1.txt",
             "Description":  "#1 GUI - Auto Farm, Chest, and More!",
             "ThumbNail": "https://i.imgur.com/WoPon0Z.png",

@@ -15,14 +15,21 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW Multiverse Fighters Simulator",
+            "Name": "NEW Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/11bd1a9e4e6b268e739301f440ab30eb/raw/49ccf93a0bc770f8ca9302f26d86b7d2406f151b/gistfile1.txt",
+            "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/RmIacsP.png",
+            "ID" : "7"
+        },
+	{
+            "Name": "Multiverse Fighters Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/3d73ac85da061f8dd1c16a64150c2e96/raw/968769e3c5be36ff9b4394bead2768a52acd0c9a/gistfile1.txt",
             "Description": "BEST GUI - Auto Farm, TP & More!",
             "ThumbNail": "https://i.imgur.com/8dCwCeV.png",
             "ID" : "178"
         },
 	{
-            "Name": "NEW Combat Warriors",
+            "Name": "Combat Warriors",
             "Url": "https://gist.githubusercontent.com/TonyX03/bf099a8b728710501f97de47fe7f7334/raw/7f87901f94b0270c8e329656b614e179f46a6cee/gistfile1.txt",
             "Description": "OP GUI - Aimbot, ESP & More!",
             "ThumbNail": "https://i.imgur.com/DfPE17k.png",
@@ -76,13 +83,6 @@
             "Description": "NEW GUI - Auto Farm, Rep Farm, And More!",
             "ThumbNail": "https://i.imgur.com/Qh95Ztg.png",
             "ID" : "28"
-        },
-	{
-            "Name": "Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/147255d57966f1a335052ebce9eb1d27/raw/8ce4e5ea62a0b1f95273f5293f42d2837392cc7b/gistfile1.txt",
-            "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/RmIacsP.png",
-            "ID" : "7"
         },
 	{
             "Name": "Anime Warriors Simulator",

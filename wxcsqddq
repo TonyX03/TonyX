@@ -15,10 +15,17 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW Demonfall",
+            "Name": "NEW Mining Simulator 2",
+            "Url": "https://gist.githubusercontent.com/TonyX03/9037fb2250c4a30d519dacbad9ae3b23/raw/c531b0f22203ef247942228e74e80597d765b60b/gistfile1.txt",
+            "Description": "#1 Hub - Auto Farm, TP & More!",
+            "ThumbNail": "https://i.imgur.com/DvxKI8g.png",
+            "ID" : "179"
+        },
+	{
+            "Name": "Demonfall",
             "Url": "https://gist.githubusercontent.com/TonyX03/771c8cdbd7decdd03c294335a3900930/raw/4e1fd7cf25575eff9e0db7bb4b14f799a4926353/gistfile1.txt",
-            "Description": "UPDATE 3.1 - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/IPp1Ccb.png",
+            "Description": "UPDATE 3.2 - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/AS7xcMN.png",
             "ID" : "150"
         },
 	{

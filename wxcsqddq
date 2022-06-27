@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Sharkbite",
+            "Url": "https://gist.githubusercontent.com/TonyX03/62547ff8fc4ada359c505558c196153a/raw/187ae1f98e9207d5a6d98ba76648d00ee0b0b98e/gistfile1.txt",
+            "Description": "OP Hub - Insta Kill & More!",
+            "ThumbNail": "https://i.imgur.com/dUtawle.png",
+            "ID" : "180"
+        },
+	{
             "Name": "NEW Mining Simulator 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/728034754ac3b1f046293571b33b9a6e/raw/51bdc973f858840156c5e8a546e722dfd21bae12/gistfile1.txt",
             "Description": "#1 Hub - Auto Farm, TP & More!",
@@ -36,7 +43,7 @@
             "ID" : "150"
         },
 	{
-            "Name": "NEW Blox Fruits",
+            "Name": "Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/11bd1a9e4e6b268e739301f440ab30eb/raw/49ccf93a0bc770f8ca9302f26d86b7d2406f151b/gistfile1.txt",
             "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/RmIacsP.png",

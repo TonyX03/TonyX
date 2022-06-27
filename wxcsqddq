@@ -15,18 +15,18 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW Anime Dimensions",
+            "Name": "NEW Mining Simulator 2",
+            "Url": "https://gist.githubusercontent.com/TonyX03/728034754ac3b1f046293571b33b9a6e/raw/51bdc973f858840156c5e8a546e722dfd21bae12/gistfile1.txt",
+            "Description": "#1 Hub - Auto Farm, TP & More!",
+            "ThumbNail": "https://i.imgur.com/C3EGn0a.png",
+            "ID" : "179"
+        },
+	{
+            "Name": "Anime Dimensions",
             "Url": "https://gist.githubusercontent.com/TonyX03/26e0ddd00ff6e40a9a7f7c19adc9eb38/raw/4f87d0d935209f4861bb16eae22e7d35d8b831cc/gistfile1.txt",
             "Description": "BEST GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/oXLFXkn.png",
             "ID" : "148"
-        },
-	{
-            "Name": "Mining Simulator 2",
-            "Url": "https://gist.githubusercontent.com/TonyX03/84c26e332cfa91ca1f88b70493f3a04c/raw/731525ce35f356f3fe694389d41c0515d7b58c1d/gistfile1.txt",
-            "Description": "#1 Hub - Auto Farm, TP & More!",
-            "ThumbNail": "https://i.imgur.com/DvxKI8g.png",
-            "ID" : "179"
         },
 	{
             "Name": "Demonfall",

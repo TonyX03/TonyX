@@ -14,7 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
-	
+	{
+            "Name": "NEW Anime Adventures",
+            "Url": "https://gist.githubusercontent.com/TonyX03/de466809dc34d3063eb20a9b4b39127e/raw/428647d5743eaa7d78c4745fb7159ab98761a3bb/gistfile1.txt",
+            "Description": "#1 Hub - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/gK2g4Rb.png",
+            "ID" : "182"
+        },
 	{
             "Name": "NEW Project Slayers",
             "Url": "https://gist.githubusercontent.com/TonyX03/6041ee7e62961d252e9c65b73c73e8ca/raw/3a18a79b0af5a8c00c28b8fe677e69dbd56269a3/gistfile1.txt",

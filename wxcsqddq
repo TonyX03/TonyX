@@ -14,15 +14,23 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	
 	{
-            "Name": "NEW Sharkbite",
+            "Name": "NEW Project Slayers",
+            "Url": "https://gist.githubusercontent.com/TonyX03/6041ee7e62961d252e9c65b73c73e8ca/raw/3a18a79b0af5a8c00c28b8fe677e69dbd56269a3/gistfile1.txt",
+            "Description": "BEST Hub - Auto Farm, Spins & More!",
+            "ThumbNail": "https://i.imgur.com/oAZ4jsQ.png",
+            "ID" : "181"
+        },
+	{
+            "Name": "Sharkbite",
             "Url": "https://gist.githubusercontent.com/TonyX03/62547ff8fc4ada359c505558c196153a/raw/187ae1f98e9207d5a6d98ba76648d00ee0b0b98e/gistfile1.txt",
             "Description": "OP Hub - Insta Kill & More!",
             "ThumbNail": "https://i.imgur.com/dUtawle.png",
             "ID" : "180"
         },
 	{
-            "Name": "NEW Mining Simulator 2",
+            "Name": "Mining Simulator 2",
             "Url": "https://gist.githubusercontent.com/TonyX03/728034754ac3b1f046293571b33b9a6e/raw/51bdc973f858840156c5e8a546e722dfd21bae12/gistfile1.txt",
             "Description": "#1 Hub - Auto Farm, TP & More!",
             "ThumbNail": "https://i.imgur.com/C3EGn0a.png",

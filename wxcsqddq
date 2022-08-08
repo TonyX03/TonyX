@@ -15,14 +15,21 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW Anime Adventures",
+            "Name": "NEW Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/7f947f89213fee6c2840c6f807adff8b/raw/d6c0ebac80a7bee2cfb4615267d5e1d95c435316/gistfile1.txt",
+            "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/RmIacsP.png",
+            "ID" : "7"
+        },
+	{
+            "Name": "Anime Adventures",
             "Url": "https://gist.githubusercontent.com/TonyX03/de466809dc34d3063eb20a9b4b39127e/raw/428647d5743eaa7d78c4745fb7159ab98761a3bb/gistfile1.txt",
             "Description": "#1 Hub - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/gK2g4Rb.png",
             "ID" : "182"
         },
 	{
-            "Name": "NEW Project Slayers",
+            "Name": "Project Slayers",
             "Url": "https://gist.githubusercontent.com/TonyX03/5bff4d51b65ba69145c39bbaa9695f2c/raw/ef0fc7a73ca255c95a7a1ae95ab9b1e53eac56da/gistfile1.txt",
             "Description": "BEST Hub - Auto Farm, Spins & More!",
             "ThumbNail": "https://i.imgur.com/oAZ4jsQ.png",
@@ -55,13 +62,6 @@
             "Description": "UPDATE 3.2 - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/AS7xcMN.png",
             "ID" : "150"
-        },
-	{
-            "Name": "Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/11bd1a9e4e6b268e739301f440ab30eb/raw/49ccf93a0bc770f8ca9302f26d86b7d2406f151b/gistfile1.txt",
-            "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/RmIacsP.png",
-            "ID" : "7"
         },
 	{
             "Name": "Multiverse Fighters Simulator",

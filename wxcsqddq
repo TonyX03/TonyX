@@ -15,7 +15,14 @@
             "ID" : "2"
         },
 	{
-            "Name": "NEW Blox Fruits",
+            "Name": "NEW Combat Warriors",
+            "Url": "https://gist.githubusercontent.com/TonyX03/861ae868ef1fac6429d2099bfd2b8d8f/raw/d9feb1aee5ab1f9bb497f7f941f054c0d5a5f069/gistfile1.txt",
+            "Description": "BEST - Aimbot, ESP & More!",
+            "ThumbNail": "https://i.imgur.com/RL8Mai4.png",
+            "ID" : "177"
+        },
+	{
+            "Name": "Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/7f947f89213fee6c2840c6f807adff8b/raw/d6c0ebac80a7bee2cfb4615267d5e1d95c435316/gistfile1.txt",
             "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/RmIacsP.png",
@@ -69,13 +76,6 @@
             "Description": "BEST GUI - Auto Farm, TP & More!",
             "ThumbNail": "https://i.imgur.com/8dCwCeV.png",
             "ID" : "178"
-        },
-	{
-            "Name": "Combat Warriors",
-            "Url": "https://gist.githubusercontent.com/TonyX03/bf099a8b728710501f97de47fe7f7334/raw/7f87901f94b0270c8e329656b614e179f46a6cee/gistfile1.txt",
-            "Description": "OP GUI - Aimbot, ESP & More!",
-            "ThumbNail": "https://i.imgur.com/DfPE17k.png",
-            "ID" : "177"
         },
 	{
             "Name": "Anime Fighters Simulator",

@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW King Legacy",
+            "Url": "https://gist.githubusercontent.com/TonyX03/cbb89b04b7ca3255be9517db81686db1/raw/43e74f4b29bd1c46e24a791ef3d0bfa2be4fb87c/gistfile1.txt",
+            "Description":  "UPDATE 3.5 - Auto Farm, Sea King, Teleport, and More!",
+            "ThumbNail": "https://i.imgur.com/eUsNoKf.png",
+            "ID" : "30"
+        },
+	{
             "Name": "NEW Evade",
             "Url": "https://gist.githubusercontent.com/TonyX03/224f149433d7287b3dce08e05727b9e0/raw/858f9393b487ad229efb34a736042b0f3ef44c02/gistfile1.txt",
             "Description": "BEST Hub - GODMODE & More!",
@@ -216,13 +223,6 @@
             "Description": "BEST GUI - Devil Fruits, Auto Stats and More!",
             "ThumbNail": "https://i.imgur.com/mQoqama.png",
             "ID" : "8"
-        },
-	{
-            "Name": "King Legacy",
-            "Url": "https://gist.githubusercontent.com/TonyX03/41f8d6bdcfb2b4818518e44483f8296e/raw/39c5da282fa6a0b531c72464c69c4bbaa0f881ec/gistfile1.txt",
-            "Description":  "UPDATE 3.5 - Auto Farm, Sea King, Teleport, and More!",
-            "ThumbNail": "https://i.imgur.com/l9Eqi0X.png",
-            "ID" : "30"
         },
 	{
             "Name": "Stand Upright Rebooted",

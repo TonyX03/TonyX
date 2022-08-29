@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Mining Simulator 2",
+            "Url": "https://gist.githubusercontent.com/TonyX03/518829710b171a66ab1b413dd6eec2f9/raw/7412a48005454e1ea214850c693aa0f75aa0c105/gistfile1.txt",
+            "Description": "#1 Hub - Auto Farm, TP & More!",
+            "ThumbNail": "https://i.imgur.com/L7ed1V8.png",
+            "ID" : "179"
+        },
+	{
             "Name": "NEW King Legacy",
             "Url": "https://gist.githubusercontent.com/TonyX03/cbb89b04b7ca3255be9517db81686db1/raw/43e74f4b29bd1c46e24a791ef3d0bfa2be4fb87c/gistfile1.txt",
             "Description":  "UPDATE 3.5 - Auto Farm, Sea King, Teleport, and More!",
@@ -69,13 +76,6 @@
             "Description": "OP Hub - Insta Kill & More!",
             "ThumbNail": "https://i.imgur.com/dUtawle.png",
             "ID" : "180"
-        },
-	{
-            "Name": "Mining Simulator 2",
-            "Url": "https://gist.githubusercontent.com/TonyX03/728034754ac3b1f046293571b33b9a6e/raw/51bdc973f858840156c5e8a546e722dfd21bae12/gistfile1.txt",
-            "Description": "#1 Hub - Auto Farm, TP & More!",
-            "ThumbNail": "https://i.imgur.com/C3EGn0a.png",
-            "ID" : "179"
         },
 	{
             "Name": "Anime Dimensions",

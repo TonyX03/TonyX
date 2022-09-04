@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/17624b7703a4bf6737bcb7967b8d7ed3/raw/40a4f3f797da4ca91551c3ecd5954a04f30a2fd7/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
+            "ThumbNail": "https://i.imgur.com/4o1OmBS.png",
+            "ID" : "6"
+        },
+	{
             "Name": "NEW Anime Adventures",
             "Url": "https://gist.githubusercontent.com/TonyX03/96d9666108a81baca0b498414288d426/raw/b4e84ff407bb4552a712a663bdabf81ce7fd2e1b/gistfile1.txt",
             "Description": "#1 Hub - Auto Farm & More!",
@@ -174,13 +181,6 @@
             "Description":  "#1 GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/Mm4IbOC.png",
             "ID" : "164"
-        },
-	{
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/1f1eac720e4958b5807ee019778c36c6/raw/e7bbe1d3ef81e1e07fe504f33ecbd6ebf1061336/gistfile1.txt",
-            "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/srp0Bcv.png",
-            "ID" : "6"
         },
 	 {
             "Name": "Anime Battle Arena",

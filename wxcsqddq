@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Your Bizarre Adventure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/4156460a9bd20e01f867f19c9e8d9148/raw/a227c8d60e674aeb3763c6d88ffc794a35ea705a/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
+            "ThumbNail": "https://i.imgur.com/H08CTXq.png",
+            "ID" : "27"
+        },
+	{
             "Name": "NEW Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/17624b7703a4bf6737bcb7967b8d7ed3/raw/40a4f3f797da4ca91551c3ecd5954a04f30a2fd7/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
@@ -209,13 +216,6 @@
             "Description": "NEW GUI - Aimbot, ESP, Gun Mods and Many More!",
             "ThumbNail": "https://i.imgur.com/TQUpDP9.png",
             "ID" : "46"
-        },
-	{
-            "Name": "Your Bizarre Adventure",
-            "Url": "https://gist.githubusercontent.com/TonyX03/d677c17337e6be7024fd2788c76389e8/raw/680c48d71db938f0c5585e7911708d9a94ec4cd3/gistfile1.txt",
-            "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
-            "ThumbNail": "https://i.imgur.com/ynGaBjZ.png",
-            "ID" : "27"
         },
 	{
             "Name": "Anime Fighting Simulator",

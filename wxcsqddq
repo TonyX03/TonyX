@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/82a9e011df99d7f62c607602ee5c0ea5/raw/f2b23da62d675850edd57114f62f83b1cc816fc3/gistfile1.txt",
+            "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/NNqnYPN.png",
+            "ID" : "7"
+        },
+	{
             "Name": "NEW Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/4156460a9bd20e01f867f19c9e8d9148/raw/a227c8d60e674aeb3763c6d88ffc794a35ea705a/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
@@ -69,13 +76,6 @@
             "Description": "BEST - Aimbot, ESP & More!",
             "ThumbNail": "https://i.imgur.com/RL8Mai4.png",
             "ID" : "177"
-        },
-	{
-            "Name": "Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/7f947f89213fee6c2840c6f807adff8b/raw/d6c0ebac80a7bee2cfb4615267d5e1d95c435316/gistfile1.txt",
-            "Description":  "UPDATE 17-2 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/RmIacsP.png",
-            "ID" : "7"
         },
 	{
             "Name": "Project Slayers",

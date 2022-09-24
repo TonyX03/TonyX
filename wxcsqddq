@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/f36d958369dd49373b8d81c2ea3bd0f6/raw/f2df34da68f5bba4779d6f6d98c5eb4e31b6cd52/gistfile1.txt",
+            "Description": "#1 GUI - INF SPINS, Farm & More",
+            "ThumbNail": "https://i.imgur.com/4o1OmBS.png",
+            "ID" : "6"
+        },
+	{
             "Name": "NEW Anime Story",
             "Url": "https://gist.githubusercontent.com/TonyX03/b2324c09bd29661a00ec117926257b20/raw/6aef69ccd88341d75b5f6cc8fa625ef6976ddd2f/gistfile1.txt",
             "Description": "BEST Hub - Auto Farm & More!",
@@ -41,13 +48,6 @@
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
             "ThumbNail": "https://i.imgur.com/H08CTXq.png",
             "ID" : "27"
-        },
-	{
-            "Name": "NEW Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/17624b7703a4bf6737bcb7967b8d7ed3/raw/40a4f3f797da4ca91551c3ecd5954a04f30a2fd7/gistfile1.txt",
-            "Description": "#1 GUI - Auto Farm, War Mode, Mission Farm, Instant!",
-            "ThumbNail": "https://i.imgur.com/4o1OmBS.png",
-            "ID" : "6"
         },
 	{
             "Name": "NEW Anime Adventures",

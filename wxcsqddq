@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Your Bizarre Adventure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/4156460a9bd20e01f867f19c9e8d9148/raw/a227c8d60e674aeb3763c6d88ffc794a35ea705a/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
+            "ThumbNail": "https://i.imgur.com/Mo8eDvn.png",
+            "ID" : "27"
+        },
+	{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/22904fa55aca21fae6e3b04fc40d6724/raw/6d5e79104df9249d46d48b91d0581c0b0cb25ff8/gistfile1.txt",
             "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
@@ -41,13 +48,6 @@
             "Description": "BEST Hub - GODMODE & More!",
             "ThumbNail": "https://i.imgur.com/tw3tQvZ.png",
             "ID" : "183"
-        },
-	{
-            "Name": "Your Bizarre Adventure",
-            "Url": "https://gist.githubusercontent.com/TonyX03/4156460a9bd20e01f867f19c9e8d9148/raw/a227c8d60e674aeb3763c6d88ffc794a35ea705a/gistfile1.txt",
-            "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
-            "ThumbNail": "https://i.imgur.com/H08CTXq.png",
-            "ID" : "27"
         },
 	{
             "Name": "Anime Adventures",

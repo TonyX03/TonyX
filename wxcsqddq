@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/178d8a82b1774af947b7de2a49466503/raw/f351e3f5f963ef65d8119be731b1a62956137e15/gistfile1.txt",
+            "Description": "#1 GUI - INF SPINS, Farm & More",
+            "ThumbNail": "https://i.imgur.com/jgsqynm.png",
+            "ID" : "6"
+        },
+	{
             "Name": "NEW Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/4156460a9bd20e01f867f19c9e8d9148/raw/a227c8d60e674aeb3763c6d88ffc794a35ea705a/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
@@ -27,13 +34,6 @@
             "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/NNqnYPN.png",
             "ID" : "7"
-        },
-	{
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/f36d958369dd49373b8d81c2ea3bd0f6/raw/f2df34da68f5bba4779d6f6d98c5eb4e31b6cd52/gistfile1.txt",
-            "Description": "#1 GUI - INF SPINS, Farm & More",
-            "ThumbNail": "https://i.imgur.com/pz2N1z1.png",
-            "ID" : "6"
         },
 	{
             "Name": "Anime Story",

@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/f542de36a72edc8c7a3571c46665ecb5/raw/e7fc8917bdac5a66b0133981e4b99a86656b7b0e/gistfile1.txt",
+            "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/NNqnYPN.png",
+            "ID" : "7"
+        },
+	{
             "Name": "NEW Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/178d8a82b1774af947b7de2a49466503/raw/f351e3f5f963ef65d8119be731b1a62956137e15/gistfile1.txt",
             "Description": "#1 GUI - INF SPINS, Farm & More",
@@ -22,18 +29,11 @@
             "ID" : "6"
         },
 	{
-            "Name": "NEW Your Bizarre Adventure",
+            "Name": "Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/4156460a9bd20e01f867f19c9e8d9148/raw/a227c8d60e674aeb3763c6d88ffc794a35ea705a/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
             "ThumbNail": "https://i.imgur.com/Mo8eDvn.png",
             "ID" : "27"
-        },
-	{
-            "Name": "NEW Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/22904fa55aca21fae6e3b04fc40d6724/raw/6d5e79104df9249d46d48b91d0581c0b0cb25ff8/gistfile1.txt",
-            "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/NNqnYPN.png",
-            "ID" : "7"
         },
 	{
             "Name": "Anime Story",

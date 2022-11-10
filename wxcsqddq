@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Project Slayers",
+            "Url": "https://gist.githubusercontent.com/TonyX03/21665ce79929b38d20b6f8304161488e/raw/87e42c8e5121976f781d618a998d8df41ed34232/gistfile1.txt",
+            "Description": "UPDATE 1 - Auto Farm, Spins & More!",
+            "ThumbNail": "https://i.imgur.com/txEnmyG.png",
+            "ID" : "181"
+        },
+	{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/f542de36a72edc8c7a3571c46665ecb5/raw/e7fc8917bdac5a66b0133981e4b99a86656b7b0e/gistfile1.txt",
             "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
@@ -83,13 +90,6 @@
             "Description": "BEST - Aimbot, ESP & More!",
             "ThumbNail": "https://i.imgur.com/RL8Mai4.png",
             "ID" : "177"
-        },
-	{
-            "Name": "Project Slayers",
-            "Url": "https://gist.githubusercontent.com/TonyX03/5bff4d51b65ba69145c39bbaa9695f2c/raw/ef0fc7a73ca255c95a7a1ae95ab9b1e53eac56da/gistfile1.txt",
-            "Description": "BEST Hub - Auto Farm, Spins & More!",
-            "ThumbNail": "https://i.imgur.com/oAZ4jsQ.png",
-            "ID" : "181"
         },
 	{
             "Name": "Sharkbite",

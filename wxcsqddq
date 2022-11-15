@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Pet Simulator X",
+            "Url": "https://gist.githubusercontent.com/TonyX03/2a07051b6c98052ed54f5e1c3660dce5/raw/f57e749007564d658f1ce9168292d9056afaba16/gistfile1.txt",
+            "Description": "NEW OP - Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/Wd2weWV.png",
+            "ID" : "153"
+        },
+	{
             "Name": "NEW Project Slayers",
             "Url": "https://gist.githubusercontent.com/TonyX03/21665ce79929b38d20b6f8304161488e/raw/87e42c8e5121976f781d618a998d8df41ed34232/gistfile1.txt",
             "Description": "UPDATE 1 - Auto Farm, Spins & More!",
@@ -258,13 +265,6 @@
             "Description": "UPDATE 7 - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/aT2l5Xh.png",
             "ID" : "168"
-        },
-	{
-            "Name": "Pet Simulator X",
-            "Url": "https://gist.githubusercontent.com/TonyX03/6ba9a020bae6b40d17dd72da671c574a/raw/8921845e1aff4e05360152ab48c0842f54bb7363/gistfile1.txt",
-            "Description": "8 Bit UPDATE - Auto Farm, And More!",
-            "ThumbNail": "https://i.imgur.com/Bqf9jdd.png",
-            "ID" : "153"
         },
 	{
             "Name": "Murder Mystery 2",

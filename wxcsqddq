@@ -14,36 +14,36 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW Pet Simulator X",
+            "Url": "https://gist.githubusercontent.com/TonyX03/dfa05c7dd941dbeb8b6d19b39bd46ec1/raw/c8b1143e16dc1cfe1201b5308a2277eddf16ff1f/gistfile1.txt",
+            "Description": "NEW OP - Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/9H9ujgn.png",
+            "ID" : "153"
+        },
 	{
-            "Name": "NEW Grand Piece Online",
+            "Name": "Grand Piece Online",
             "Url": "https://gist.githubusercontent.com/TonyX03/25036c74e749234446aab5430bd59cf0/raw/5e6b6033c4cb9b7d71b2170e0b4d7e65ded578dd/gistfile1.txt",
             "Description":  "#1 GUI - Auto Farm, Chest, and More!",
             "ThumbNail": "https://i.imgur.com/NoBMbem.png",
             "ID" : "34"
         },
 	{
-            "Name": "NEW Pet Simulator X",
-            "Url": "https://gist.githubusercontent.com/TonyX03/2a07051b6c98052ed54f5e1c3660dce5/raw/f57e749007564d658f1ce9168292d9056afaba16/gistfile1.txt",
-            "Description": "NEW OP - Auto Farm, And More!",
-            "ThumbNail": "https://i.imgur.com/Wd2weWV.png",
-            "ID" : "153"
-        },
-	{
-            "Name": "NEW Project Slayers",
+            "Name": "Project Slayers",
             "Url": "https://gist.githubusercontent.com/TonyX03/21665ce79929b38d20b6f8304161488e/raw/87e42c8e5121976f781d618a998d8df41ed34232/gistfile1.txt",
             "Description": "UPDATE 1 - Auto Farm, Spins & More!",
             "ThumbNail": "https://i.imgur.com/txEnmyG.png",
             "ID" : "181"
         },
 	{
-            "Name": "NEW Blox Fruits",
+            "Name": "Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/f542de36a72edc8c7a3571c46665ecb5/raw/e7fc8917bdac5a66b0133981e4b99a86656b7b0e/gistfile1.txt",
             "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
             "ThumbNail": "https://i.imgur.com/NNqnYPN.png",
             "ID" : "7"
         },
 	{
-            "Name": "NEW Shindo Life",
+            "Name": "Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/178d8a82b1774af947b7de2a49466503/raw/f351e3f5f963ef65d8119be731b1a62956137e15/gistfile1.txt",
             "Description": "#1 GUI - INF SPINS, Farm & More",
             "ThumbNail": "https://i.imgur.com/jgsqynm.png",

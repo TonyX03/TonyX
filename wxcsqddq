@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 		{
+            "Name": "NEW Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/cd0dcb0bc250761064e26d5b3e7b2e0c/raw/f9708c93ef65e178242a888a68b0061143d4191c/gistfile1.txt",
+            "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/dPSssu8.png",
+            "ID" : "7"
+        },
+		{
             "Name": "NEW Pet Simulator X",
             "Url": "https://gist.githubusercontent.com/TonyX03/dfa05c7dd941dbeb8b6d19b39bd46ec1/raw/c8b1143e16dc1cfe1201b5308a2277eddf16ff1f/gistfile1.txt",
             "Description": "NEW OP - Auto Farm, And More!",
@@ -34,13 +41,6 @@
             "Description": "UPDATE 1 - Auto Farm, Spins & More!",
             "ThumbNail": "https://i.imgur.com/txEnmyG.png",
             "ID" : "181"
-        },
-	{
-            "Name": "Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/f542de36a72edc8c7a3571c46665ecb5/raw/e7fc8917bdac5a66b0133981e4b99a86656b7b0e/gistfile1.txt",
-            "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/NNqnYPN.png",
-            "ID" : "7"
         },
 	{
             "Name": "Shindo Life",

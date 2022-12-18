@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	{
+            "Name": "NEW Shindo Life",
+            "Url": "https://gist.githubusercontent.com/TonyX03/e64f54b9396323209dcded521c91703c/raw/4e92b3011f0ad8b97f549d2c97cb4a98d435ffe8/gistfile1.txt",
+            "Description": "#1 GUI - INF SPINS, Farm & More",
+            "ThumbNail": "https://i.imgur.com/3i2KwcS.png",
+            "ID" : "6"
+        },
 		{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/cd0dcb0bc250761064e26d5b3e7b2e0c/raw/f9708c93ef65e178242a888a68b0061143d4191c/gistfile1.txt",
@@ -41,13 +48,6 @@
             "Description": "UPDATE 1 - Auto Farm, Spins & More!",
             "ThumbNail": "https://i.imgur.com/txEnmyG.png",
             "ID" : "181"
-        },
-	{
-            "Name": "Shindo Life",
-            "Url": "https://gist.githubusercontent.com/TonyX03/178d8a82b1774af947b7de2a49466503/raw/f351e3f5f963ef65d8119be731b1a62956137e15/gistfile1.txt",
-            "Description": "#1 GUI - INF SPINS, Farm & More",
-            "ThumbNail": "https://i.imgur.com/jgsqynm.png",
-            "ID" : "6"
         },
 	{
             "Name": "Your Bizarre Adventure",

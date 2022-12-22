@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Grand Piece Online",
+            "Url": "https://gist.githubusercontent.com/TonyX03/3084b05a78e34609eddff82f42c4afa3/raw/af8f1d59347a9a7590a0b627b6c06b952f834ba0/gistfile1.txt",
+            "Description":  "#1 GUI - Auto Farm, Chest, and More!",
+            "ThumbNail": "https://i.imgur.com/2bYqarK.png",
+            "ID" : "34"
+        },
+	{
             "Name": "NEW Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/e64f54b9396323209dcded521c91703c/raw/4e92b3011f0ad8b97f549d2c97cb4a98d435ffe8/gistfile1.txt",
             "Description": "#1 GUI - INF SPINS, Farm & More",
@@ -34,13 +41,6 @@
             "Description": "NEW OP - Auto Farm, And More!",
             "ThumbNail": "https://i.imgur.com/9H9ujgn.png",
             "ID" : "153"
-        },
-	{
-            "Name": "Grand Piece Online",
-            "Url": "https://gist.githubusercontent.com/TonyX03/25036c74e749234446aab5430bd59cf0/raw/5e6b6033c4cb9b7d71b2170e0b4d7e65ded578dd/gistfile1.txt",
-            "Description":  "#1 GUI - Auto Farm, Chest, and More!",
-            "ThumbNail": "https://i.imgur.com/NoBMbem.png",
-            "ID" : "34"
         },
 	{
             "Name": "Project Slayers",

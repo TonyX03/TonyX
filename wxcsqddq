@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/feb0bf6217bb8bdb8835c3352ea00c52/raw/52a36a246624f18a878c4a86cd2e828fb3eddff8/gistfile1.txt",
+            "Description":  "XMAS GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/eyecxFe.png",
+            "ID" : "7"
+        },
+	{
             "Name": "NEW Tower Defense Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/f1d18f1099014e459e27d110c603c49b/raw/04fed64c706db7bc9f91d4c9b75434360fdfc39e/gistfile1.txt",
             "Description": "BEST GUI - Auto Farm And More!!",
@@ -42,13 +49,7 @@
             "ThumbNail": "https://i.imgur.com/3i2KwcS.png",
             "ID" : "6"
         },
-		{
-            "Name": "NEW Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/4e8ab4cf3210bb38b2bc1bd90aef1f4f/raw/25a4910ca50103384ee4522d3127f40dc660e615/gistfile1.txt",
-            "Description":  "UPDATE 17-3 GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/dPSssu8.png",
-            "ID" : "7"
-        },
+		
 		{
             "Name": "NEW Pet Simulator X",
             "Url": "https://gist.githubusercontent.com/TonyX03/dfa05c7dd941dbeb8b6d19b39bd46ec1/raw/c8b1143e16dc1cfe1201b5308a2277eddf16ff1f/gistfile1.txt",

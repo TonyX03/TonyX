@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Project New World",
+            "Url": "https://gist.githubusercontent.com/TonyX03/78c790665a5fa5046feb3b7017741373/raw/493abd46101f5f0dad72d5b454f95d2b2c137011/gistfile1.txt",
+            "Description": "XMAS GUI - Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/Z4kx1rE.png",
+            "ID" : "137"
+        },
+	{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/feb0bf6217bb8bdb8835c3352ea00c52/raw/52a36a246624f18a878c4a86cd2e828fb3eddff8/gistfile1.txt",
             "Description":  "XMAS GUI - Auto Farm, Devil Fruit, And More!",
@@ -611,13 +618,6 @@
             "Description": "Exclusive GUI - Auto Farm!",
             "ThumbNail": "https://i.imgur.com/Y7a0joN.png",
             "ID" : "139"
-        },
-		{
-            "Name": "Project New World",
-            "Url": "https://gist.githubusercontent.com/TonyX03/871a6c6e2f62950b176a98464f8e3849/raw/e2ed44da12834ef3cd0bcbac18aa4d6bfa6d95f9/gistfile1.txt",
-            "Description": "Exclusive GUI - Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/LgJQ6EX.png",
-            "ID" : "137"
         },
 		{
             "Name": "Factory Simulator",

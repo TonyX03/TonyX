@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Blox Fruits",
+            "Url": "https://gist.githubusercontent.com/TonyX03/5756ef8f77ca965f524ba72b0fbd16b3/raw/99337f9bc3212200a08a70c0500563931e0b2f24/gistfile1.txt",
+            "Description":  "XMAS GUI - Auto Farm, Devil Fruit, And More!",
+            "ThumbNail": "https://i.imgur.com/eyecxFe.png",
+            "ID" : "7"
+        },
+	{
             "Name": "NEW Grand Piece Online",
             "Url": "https://gist.githubusercontent.com/TonyX03/a576924132617ab03104c691200a7796/raw/6a926026a041aab187ffbaf590c96cc944bdaeb9/gistfile1.txt",
             "Description":  "#1 GUI - Auto Farm, Chest, and More!",
@@ -27,13 +34,6 @@
             "Description": "XMAS GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/Z4kx1rE.png",
             "ID" : "137"
-        },
-	{
-            "Name": "NEW Blox Fruits",
-            "Url": "https://gist.githubusercontent.com/TonyX03/feb0bf6217bb8bdb8835c3352ea00c52/raw/52a36a246624f18a878c4a86cd2e828fb3eddff8/gistfile1.txt",
-            "Description":  "XMAS GUI - Auto Farm, Devil Fruit, And More!",
-            "ThumbNail": "https://i.imgur.com/eyecxFe.png",
-            "ID" : "7"
         },
 	{
             "Name": "NEW Tower Defense Simulator",

@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Grand Piece Online",
+            "Url": "https://gist.githubusercontent.com/TonyX03/a576924132617ab03104c691200a7796/raw/6a926026a041aab187ffbaf590c96cc944bdaeb9/gistfile1.txt",
+            "Description":  "#1 GUI - Auto Farm, Chest, and More!",
+            "ThumbNail": "https://i.imgur.com/2bYqarK.png",
+            "ID" : "34"
+        },
+	{
             "Name": "NEW Project New World",
             "Url": "https://gist.githubusercontent.com/TonyX03/78c790665a5fa5046feb3b7017741373/raw/493abd46101f5f0dad72d5b454f95d2b2c137011/gistfile1.txt",
             "Description": "XMAS GUI - Auto Farm & More!",
@@ -41,13 +48,6 @@
             "Description": "Exclusive GUI - Auto Farm And More!!",
             "ThumbNail": "https://i.imgur.com/6ipJXnQ.png",
             "ID" : "47"
-        },
-	{
-            "Name": "NEW Grand Piece Online",
-            "Url": "https://gist.githubusercontent.com/TonyX03/3084b05a78e34609eddff82f42c4afa3/raw/af8f1d59347a9a7590a0b627b6c06b952f834ba0/gistfile1.txt",
-            "Description":  "#1 GUI - Auto Farm, Chest, and More!",
-            "ThumbNail": "https://i.imgur.com/2bYqarK.png",
-            "ID" : "34"
         },
 	{
             "Name": "NEW Shindo Life",

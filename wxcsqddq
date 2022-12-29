@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW Your Bizarre Adventure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/da7b80fc7051eb2a584010a13517fb7c/raw/3f3555adef7e4d36efb74b9ffb225bf4c9964c8c/gistfile1.txt",
+            "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
+            "ThumbNail": "https://i.imgur.com/iPXLnZa.png",
+            "ID" : "27"
+        },
 	{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/5756ef8f77ca965f524ba72b0fbd16b3/raw/99337f9bc3212200a08a70c0500563931e0b2f24/gistfile1.txt",
@@ -36,21 +43,21 @@
             "ID" : "137"
         },
 	{
-            "Name": "NEW Tower Defense Simulator",
+            "Name": "Tower Defense Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/f1d18f1099014e459e27d110c603c49b/raw/04fed64c706db7bc9f91d4c9b75434360fdfc39e/gistfile1.txt",
             "Description": "BEST GUI - Auto Farm And More!!",
             "ThumbNail": "https://i.imgur.com/5DAPDil.png",
             "ID" : "185"
         },
 	{
-            "Name": "NEW All Star Tower Defense",
+            "Name": "All Star Tower Defense",
             "Url": "https://gist.githubusercontent.com/TonyX03/ef0a9a19cc6d1be0d6df6b199544146b/raw/5c5aad201386ee3ba90c6c76700a67946eee67fe/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm And More!!",
             "ThumbNail": "https://i.imgur.com/6ipJXnQ.png",
             "ID" : "47"
         },
 	{
-            "Name": "NEW Shindo Life",
+            "Name": "Shindo Life",
             "Url": "https://gist.githubusercontent.com/TonyX03/e64f54b9396323209dcded521c91703c/raw/4e92b3011f0ad8b97f549d2c97cb4a98d435ffe8/gistfile1.txt",
             "Description": "#1 GUI - INF SPINS, Farm & More",
             "ThumbNail": "https://i.imgur.com/3i2KwcS.png",
@@ -58,7 +65,7 @@
         },
 		
 		{
-            "Name": "NEW Pet Simulator X",
+            "Name": "Pet Simulator X",
             "Url": "https://gist.githubusercontent.com/TonyX03/dfa05c7dd941dbeb8b6d19b39bd46ec1/raw/c8b1143e16dc1cfe1201b5308a2277eddf16ff1f/gistfile1.txt",
             "Description": "NEW OP - Auto Farm, And More!",
             "ThumbNail": "https://i.imgur.com/9H9ujgn.png",
@@ -70,13 +77,6 @@
             "Description": "UPDATE 1 - Auto Farm, Spins & More!",
             "ThumbNail": "https://i.imgur.com/txEnmyG.png",
             "ID" : "181"
-        },
-	{
-            "Name": "Your Bizarre Adventure",
-            "Url": "https://gist.githubusercontent.com/TonyX03/4156460a9bd20e01f867f19c9e8d9148/raw/a227c8d60e674aeb3763c6d88ffc794a35ea705a/gistfile1.txt",
-            "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
-            "ThumbNail": "https://i.imgur.com/Mo8eDvn.png",
-            "ID" : "27"
         },
 	{
             "Name": "Anime Story",

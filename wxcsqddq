@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW Combat Warriors",
+            "Url": "https://gist.githubusercontent.com/TonyX03/3e6bd9e8fc4e995c05ae42bffba94558/raw/f42e73cdf18d5c9602108342e71e22f29bbe2942/gistfile1.txt",
+            "Description": "BEST - Kill Aura, ESP & More!",
+            "ThumbNail": "https://i.imgur.com/w9jBWUk.png",
+            "ID" : "177"
+        },
 	{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/e3afa9dad0493b8ec4c6c284dc1d4e2f/raw/70e271eb922a918557d3ce3c4a8ad5d54127f054/gistfile1.txt",
@@ -119,13 +126,6 @@
             "Description": "Exclusive GUI - Auto Farm, God Mode, And More!",
             "ThumbNail": "https://i.imgur.com/OpYvRfC.png",
             "ID" : "157"
-        },
-	{
-            "Name": "Combat Warriors",
-            "Url": "https://gist.githubusercontent.com/TonyX03/eb93ab0269d8be1b02a538a076cc9134/raw/3e5a22ff214a851c652cce04492c26df856b678d/gistfile1.txt",
-            "Description": "BEST - Aimbot, ESP & More!",
-            "ThumbNail": "https://i.imgur.com/RL8Mai4.png",
-            "ID" : "177"
         },
 	{
             "Name": "Sharkbite",

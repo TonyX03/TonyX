@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Bee Swarm Simulator",
+            "Url": "https://gist.githubusercontent.com/TonyX03/142004130a954539c627943b68cdf68d/raw/cd81a34434f780f0ae582c1ba89be7c02e2fc77d/gistfile1.txt",
+            "Description": "The Best GUI, Auto Farm Everything...",
+            "ThumbNail": "https://i.imgur.com/tF0dlEJ.png",
+            "ID" : "85"
+        },
+	{
             "Name": "NEW Blox Fruits",
             "Url": "https://gist.githubusercontent.com/TonyX03/50b057c5e92fc4230765668cb65cbe96/raw/697ec98f61884a9d2c155e054968c1443def609e/gistfile1.txt",
             "Description":  "Race V4 - Auto Farm, Devil Fruit, And More!",
@@ -29,28 +36,28 @@
             "ID" : "177"
         },
 		{
-            "Name": "NEW Anime Adventures",
+            "Name": "Anime Adventures",
             "Url": "https://gist.githubusercontent.com/TonyX03/717f4ec7904d13c296e7c121ab3dda59/raw/c77e9ccfe956ec0cf366f13f0a38e5d240c82379/gistfile1.txt",
             "Description": "#1 Hub - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/O6qnAT0.png",
             "ID" : "182"
         },
 		{
-            "Name": "NEW Your Bizarre Adventure",
+            "Name": "Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/da7b80fc7051eb2a584010a13517fb7c/raw/3f3555adef7e4d36efb74b9ffb225bf4c9964c8c/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
             "ThumbNail": "https://i.imgur.com/iPXLnZa.png",
             "ID" : "27"
         },
 	{
-            "Name": "NEW Grand Piece Online",
+            "Name": "Grand Piece Online",
             "Url": "https://gist.githubusercontent.com/TonyX03/a576924132617ab03104c691200a7796/raw/6a926026a041aab187ffbaf590c96cc944bdaeb9/gistfile1.txt",
             "Description":  "#1 GUI - Auto Farm, Chest, and More!",
             "ThumbNail": "https://i.imgur.com/iuEQRSC.png",
             "ID" : "34"
         },
 	{
-            "Name": "NEW Project New World",
+            "Name": "Project New World",
             "Url": "https://gist.githubusercontent.com/TonyX03/78c790665a5fa5046feb3b7017741373/raw/493abd46101f5f0dad72d5b454f95d2b2c137011/gistfile1.txt",
             "Description": "XMAS GUI - Auto Farm & More!",
             "ThumbNail": "https://i.imgur.com/Z4kx1rE.png",
@@ -210,13 +217,6 @@
             "Description": "Exclusive GUI - Bomb All, Invisible All, Crash And Many More!",
             "ThumbNail": "https://i.imgur.com/3RSbrTV.png",
             "ID" : "48"
-        },
-	{
-            "Name": "Bee Swarm Simulator",
-            "Url": "https://gist.githubusercontent.com/TonyX03/e8051b9f6565fd00c5bb44b6fa8cc005/raw/3900d99d7796f520cbc388476c0ef7e7f7dc76cd/gistfile1.txt",
-            "Description": "The Best GUI, Auto Farm Everything...",
-            "ThumbNail": "https://i.imgur.com/Xi40Ln7.png",
-            "ID" : "85"
         },
 	{
             "Name": "Clicker Simulator",

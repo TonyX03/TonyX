@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW King Legacy",
+            "Url": "https://gist.githubusercontent.com/TonyX03/e0448a879d61e00a46073455a1b99584/raw/4bebf558a11a6a19d0c753864a838b04fb773491/gistfile1.txt",
+            "Description":  "UPDATE 4.5.2 - Auto Farm, Sea King, Teleport, and More!",
+            "ThumbNail": "https://i.imgur.com/GvtAg13.png",
+            "ID" : "30"
+        },
+	{
             "Name": "NEW Anime Adventures",
             "Url": "https://gist.githubusercontent.com/TonyX03/40a3724c446f4e65492dda39fcaf8ff4/raw/302b67f87d5e83a0f9ee7085bb866fef2e18c7b9/gistfile1.txt",
             "Description": "#1 Hub - Auto Farm & More!",
@@ -119,13 +126,6 @@
             "Description": "#1 Hub - Auto Farm, TP & More!",
             "ThumbNail": "https://i.imgur.com/L7ed1V8.png",
             "ID" : "179"
-        },
-	{
-            "Name": "King Legacy",
-            "Url": "https://gist.githubusercontent.com/TonyX03/cbb89b04b7ca3255be9517db81686db1/raw/43e74f4b29bd1c46e24a791ef3d0bfa2be4fb87c/gistfile1.txt",
-            "Description":  "UPDATE 3.5 - Auto Farm, Sea King, Teleport, and More!",
-            "ThumbNail": "https://i.imgur.com/eUsNoKf.png",
-            "ID" : "30"
         },
 	{
             "Name": "A Universal Time",

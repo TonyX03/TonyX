@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW Pet Simulator X",
+            "Url": "https://gist.githubusercontent.com/TonyX03/4d37407a5effc3232bbba513a79ce21d/raw/9e54249212e342cd067778a7a36b770643a2f955/gistfile1.txt",
+            "Description": "NEW OP - Auto Farm, And More!",
+            "ThumbNail": "https://i.imgur.com/fRjoQgl.png",
+            "ID" : "153"
+        },
+	{
             "Name": "NEW King Legacy",
             "Url": "https://gist.githubusercontent.com/TonyX03/e0448a879d61e00a46073455a1b99584/raw/4bebf558a11a6a19d0c753864a838b04fb773491/gistfile1.txt",
             "Description":  "UPDATE 4.5.2 - Auto Farm, Sea King, Teleport, and More!",
@@ -92,13 +99,7 @@
             "ID" : "6"
         },
 		
-		{
-            "Name": "Pet Simulator X",
-            "Url": "https://gist.githubusercontent.com/TonyX03/dfa05c7dd941dbeb8b6d19b39bd46ec1/raw/c8b1143e16dc1cfe1201b5308a2277eddf16ff1f/gistfile1.txt",
-            "Description": "NEW OP - Auto Farm, And More!",
-            "ThumbNail": "https://i.imgur.com/9H9ujgn.png",
-            "ID" : "153"
-        },
+		
 	{
             "Name": "Project Slayers",
             "Url": "https://gist.githubusercontent.com/TonyX03/21665ce79929b38d20b6f8304161488e/raw/87e42c8e5121976f781d618a998d8df41ed34232/gistfile1.txt",

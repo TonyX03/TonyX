@@ -15,6 +15,13 @@
             "ID" : "2"
         },
 	{
+            "Name": "NEW DOORS",
+            "Url": "https://gist.githubusercontent.com/TonyX03/0a54202a65dc3771b1f4a7d72dcd8a7b/raw/71ffa8074171b38e15d7805f9e09bf2f02450def/gistfile1.txt",
+            "Description": "NEW #1 HUB - Skip Doors And More!!",
+            "ThumbNail": "https://i.imgur.com/XWgMS3D.png",
+            "ID" : "187"
+        },
+	{
             "Name": "NEW Pixel Piece",
             "Url": "https://gist.githubusercontent.com/TonyX03/dd062a639535b0b23340c210e614332a/raw/55806102ed64224e9e8557a36c8eac3531c3f7ba/gistfile1.txt",
             "Description": "NEW #1 GUI - Auto Farm And More!!",

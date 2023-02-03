@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+		{
+            "Name": "NEW Jailbreak",
+            "Url": "https://gist.githubusercontent.com/TonyX03/a902eeafb231f975c74b48ddaee6e2fc/raw/8a93fa690a2c94ed5781d8a4cde8df3e3002e942/gistfile1.txt",
+            "Description":  "OP GUI - Auto Farm, Teleports, Fly, and More!",
+            "ThumbNail": "https://i.imgur.com/sjQOMem.png",
+            "ID" : "45"
+        },
 	        {
             "Name": "NEW Build A Boat For Treasure",
             "Url": "https://gist.githubusercontent.com/TonyX03/095a6714e4bcaf8a659cc7f1778176e9/raw/f26ec2e7c53b035426bef734b663f9f00fe45ca3/gistfile1.txt",
@@ -359,13 +366,6 @@
             "Description":  "Exclusive GUI - Auto Farm & More",
             "ThumbNail": "https://i.imgur.com/BWzIx67.png",
             "ID" : "163"
-        },
-	{
-            "Name": "Jailbreak",
-            "Url": "https://gist.githubusercontent.com/TonyX03/cfa6d55e9b51e5e01cd2522ca8e638cf/raw/3cad5d4524348cd02047621ca560e8cdd4c65f13/gistfile1.txt",
-            "Description":  "Exclusive GUI - Auto Farm, Teleports, Fly, and More!",
-            "ThumbNail": "https://i.imgur.com/y90oQzK.png",
-            "ID" : "45"
         },
 	{
             "Name": "Deepwoken",

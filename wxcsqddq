@@ -14,6 +14,13 @@
             "ThumbNail": "https://i.imgur.com/ZIhLfeX.png",
             "ID" : "2"
         },
+	        {
+            "Name": "NEW Build A Boat For Treasure",
+            "Url": "https://gist.githubusercontent.com/TonyX03/095a6714e4bcaf8a659cc7f1778176e9/raw/f26ec2e7c53b035426bef734b663f9f00fe45ca3/gistfile1.txt",
+            "Description":  "GUI - Auto Farm, Chest TP, Auto Buy, GodMode and More!",
+            "ThumbNail": "https://i.imgur.com/FiUZ3Aj.png",
+            "ID" : "74"
+        },
 	{
             "Name": "NEW Bee Swarm Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/a2dd64b2a8f26fd1e4fa07fac0c08510/raw/0a6092e333bebf881bed1d5c7a71250f8a7182df/gistfile1.txt",
@@ -1140,13 +1147,6 @@
             "Description": "GUI - Collect Coins, ESP, Tracers And Many More!",
             "ThumbNail": "https://i.imgur.com/PRgy6X2.jpg",
             "ID" : "73"
-        },
-        {
-            "Name": "Build A Boat For Treasure",
-            "Url": "https://pastebin.com/raw/RPwvj7jL",
-            "Description":  "GUI - Auto Farm, Chest TP, Auto Buy, GodMode and More!",
-            "ThumbNail": "https://i.imgur.com/VSHvjeB.jpg",
-            "ID" : "74"
         },
         {
             "Name": "CRIMINAL VS SWAT",

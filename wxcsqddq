@@ -7,7 +7,6 @@
             "ThumbNail": "https://i.imgur.com/KboDMZZ.png",
             "ID" : "1"
         },
-	
          {
             "Name": "Infinite Yield",
             "Url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
@@ -36,7 +35,7 @@
             "ThumbNail": "https://i.imgur.com/4YBShMn.png",
             "ID" : "7"
         },
-		{
+	{
             "Name": "NEW Anime Souls Simulator",
             "Url": "https://gist.githubusercontent.com/TonyX03/0746069504de25527d066ed8b999ff32/raw/c0f26e558271eb72ca4f2de3d156f4c3ceca5594/gistfile1.txt",
             "Description": "FREE HUB - Auto Farm!",
@@ -50,21 +49,21 @@
             "ThumbNail": "https://i.imgur.com/ArhLUbB.png",
             "ID" : "148"
         },
-		{
+	{
             "Name": "NEW Da Hood",
             "Url": "https://gist.githubusercontent.com/TonyX03/71c9100cdfef5b2baf9ea487a335d575/raw/253ec945f1d5dde97bf2d464b83e9dc910c4202e/gistfile1.txt",
             "Description": "Exclusive GUI - Auto Farm, Money And More!",
             "ThumbNail": "https://i.imgur.com/x5IZgE7.png",
             "ID" : "31"
         },
-		{
+	{
             "Name": "NEW Jailbreak",
             "Url": "https://gist.githubusercontent.com/TonyX03/d677c7ac956d00211d27e33bee50a4d4/raw/1c2c69400491b42fbdb3fd25037bfa7fb615929e/gistfile1.txt",
             "Description":  "FREE GUI - Auto Farm, Teleports, Fly, and More!",
             "ThumbNail": "https://i.imgur.com/sjQOMem.png",
             "ID" : "45"
         },
-	        {
+	{
             "Name": "NEW Build A Boat For Treasure",
             "Url": "https://gist.githubusercontent.com/TonyX03/095a6714e4bcaf8a659cc7f1778176e9/raw/f26ec2e7c53b035426bef734b663f9f00fe45ca3/gistfile1.txt",
             "Description":  "GUI - Auto Farm, Chest TP, Auto Buy, GodMode and More!",
@@ -113,14 +112,14 @@
             "ThumbNail": "https://i.imgur.com/rRzy8Td.png",
             "ID" : "182"
         },
-		{
+	{
             "Name": "Combat Warriors",
             "Url": "https://gist.githubusercontent.com/TonyX03/fef9d775817d78af4d23771a7e7667c3/raw/58915ec9d27ae9af78786122d93a73417216d4b6/gistfile1.txt",
             "Description": "OP - Kill Aura, ESP & More!",
             "ThumbNail": "https://i.imgur.com/w9jBWUk.png",
             "ID" : "177"
         },
-		{
+	{
             "Name": "Your Bizarre Adventure",
             "Url": "https://gist.githubusercontent.com/TonyX03/da7b80fc7051eb2a584010a13517fb7c/raw/3f3555adef7e4d36efb74b9ffb225bf4c9964c8c/gistfile1.txt",
             "Description": "#1 GUI - Auto Farm, Item Farm, Mods and More!",
@@ -154,9 +153,7 @@
             "Description": "#1 GUI - INF SPINS, Farm & More",
             "ThumbNail": "https://i.imgur.com/3i2KwcS.png",
             "ID" : "6"
-        },
-		
-		
+        },	
 	{
             "Name": "Project Slayers",
             "Url": "https://gist.githubusercontent.com/TonyX03/21665ce79929b38d20b6f8304161488e/raw/87e42c8e5121976f781d618a998d8df41ed34232/gistfile1.txt",
